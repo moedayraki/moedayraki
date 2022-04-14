@@ -1,7 +1,7 @@
 # Hello, Hello! The Moe You Know👋
 
 <div style="width:50%;float:left">
-    <a href="https://app.daily.dev/moedayraki" target="_blank"><img src="https://api.daily.dev/devcards/4e1a4fa920734885bfc6d0f85e8cb796.png?r=3xx" width="100%" alt="Moe Dayraki's Dev Card"/></a>
+    <a href="https://app.daily.dev/moedayraki" target="_blank"><img src="https://api.daily.dev/devcards/4e1a4fa920734885bfc6d0f85e8cb796.png?r=3xx" width="50%" alt="Moe Dayraki's Dev Card"/></a>
 </div>
 <div style="width:50%;float:left;text-align:center">
     <div>You can also find me on</div>
