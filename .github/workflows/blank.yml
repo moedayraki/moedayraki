@@ -27,6 +27,6 @@ jobs:
           url: "https://uselessfacts.jsph.pl/today.json?language=en"
           method: GET
       - name: Save Response
-        run: $output = ${{ steps.myRequest.outputs.output }}
+        run: $output = '${{ steps.myRequest.outputs.output }}'
       - name: Show Details
         run: echo $($output.statusCode)
