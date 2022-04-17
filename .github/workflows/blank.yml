@@ -22,8 +22,9 @@ jobs:
     steps:
       - name: Make Request
         id: myRequest
-        uses: fjogeleit/http-request-action@v1
+        uses: satak/webrequest-action@master
         with:
           url: "https://uselessfacts.jsph.pl/today.json?language=en"
+          method: GET
       - name: Show Response
         run: echo ${{ steps.myRequest.outputs.response.text }}
