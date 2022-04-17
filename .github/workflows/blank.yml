@@ -20,18 +20,10 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-     # - name: Make Request
-        # id: myRequest
-        # uses: satak/webrequest-action@master
-        # with:
-        #  url: "https://uselessfacts.jsph.pl/today.json?language=en"
-        #  method: GET
-     # - name: Show Response
-     #   run: $output = '${{ steps.myRequest.outputs.output }}'
       - name: Fetch data
         run: curl "https://uselessfacts.jsph.pl/today.json?language=en" -o data.json 
       - name: Parse data
         id: parse_data
         run: echo '::set-output name=text::'$(jq -r '.text' data.json)
       - name: Show data
-        run: echo "There's been a change! Fact is now ${{ steps.parse_data.outputs.text }}."
+        run: echo ${{ steps.parse_data.outputs.text }}
