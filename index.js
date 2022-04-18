@@ -27,7 +27,7 @@ function updateContent() {
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<a id="fact">${response.data.text}</a>
+<p id="fact">${response.data.text}</p>
 </div>
 <br>
 <div align="center">
