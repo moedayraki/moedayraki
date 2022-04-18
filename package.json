@@ -23,8 +23,7 @@
   },
   "homepage": "https://github.com/moedayraki/moedayraki#readme",
   "dependencies": {
-    "@octokit/core": "^3.6.0",
-    "dotenv": "^16.0.0",
-    "nodemon": "^2.0.15"
+    "axios": "^0.26.1",
+    "fs": "^0.0.1-security"
   }
 }

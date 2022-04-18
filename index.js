@@ -1,4 +1,8 @@
-<h1 align="center"> Hello, Hello! The Moe You Know👋</h1>
+function updateContent() {
+    const axios = require('axios').default;
+    const fs = require('fs');
+    axios.get('https://uselessfacts.jsph.pl/random.json?language=en').then(response => {
+        let updatedContent = `<h1 align="center"> Hello, Hello! The Moe You Know👋</h1>
 <div align="center"><h3>You can also find me on</h3>
     
 <a href="https://twitter.com/MohammedDayraki" style="display:block" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white" /></a>
@@ -23,9 +27,19 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<a id="fact">Weatherman Willard Scott was the first original Ronald McDonald.</a>
+<a id="fact">${response.data.text}</a>
 </div>
 <br>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=moedayraki&count_private=true&show_icons=true&bg_color=000000&title_color=FFFFFF&border_radius=50&custom_title=Status"/>
 </div>
+`
+        fs.writeFile('README.md', updatedContent, function (err) {
+            if (err) throw err;
+            console.log('Replaced!');
+        });
+
+    });
+}
+
+updateContent();
