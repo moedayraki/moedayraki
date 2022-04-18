@@ -22,5 +22,9 @@
 </div>
 <br>
 <div align="center">
+<h3>Today's Useless Fact</h3>
+</div>
+<br>
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=moedayraki&count_private=true&show_icons=true&bg_color=000000&title_color=FFFFFF&border_radius=50&custom_title=Status"/>
 </div>

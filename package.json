@@ -1,0 +1,30 @@
+{
+  "name": "moedayraki",
+  "version": "1.0.0",
+  "description": "github profile",
+  "main": "index.js",
+  "scripts": {
+    "test": "text"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moedayraki/moedayraki.git"
+  },
+  "keywords": [
+    "profile",
+    "github",
+    "readme",
+    "markdown"
+  ],
+  "author": "moedayraki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moedayraki/moedayraki/issues"
+  },
+  "homepage": "https://github.com/moedayraki/moedayraki#readme",
+  "dependencies": {
+    "@octokit/core": "^3.6.0",
+    "dotenv": "^16.0.0",
+    "nodemon": "^2.0.15"
+  }
+}
