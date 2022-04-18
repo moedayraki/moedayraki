@@ -28,5 +28,5 @@ jobs:
       - name: Show data
         run: echo ${{ steps.parse_data.outputs.text }}
       - name: Run script file
-        run: |
-         chmod +x ./update-fact.sh "${{ steps.parse_data.outputs.text }}"
+        uses: actions/setup-node@v3
+      - run: node index.js
