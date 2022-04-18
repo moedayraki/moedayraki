@@ -4,7 +4,7 @@
   "description": "github profile",
   "main": "index.js",
   "scripts": {
-    "test": "text"
+    "update": "node index.js"
   },
   "repository": {
     "type": "git",
