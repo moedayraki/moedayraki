@@ -21,12 +21,16 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
      steps:
-     # - name: Fetch data
-     #   run: curl "https://uselessfacts.jsph.pl/today.json?language=en" -o data.json 
-     # - name: Parse data
-     #   id: parse_data
-     #   run: echo '::set-output name=text::'$(jq -r '.text' data.json)
-     # - name: Show data
-     #   run: echo ${{ steps.parse_data.outputs.text }}
-     - name: Annotate PR
-       uses: moedayraki/moedayraki@main
+      #- name: Fetch data
+      #  run: curl "https://uselessfacts.jsph.pl/today.json?language=en" -o data.json 
+      #- name: Parse data
+      #  id: parse_data
+      #  run: echo '::set-output name=text::'$(jq -r '.text' data.json)
+      #- name: Show data
+      #  run: echo ${{ steps.parse_data.outputs.text }}
+      - name: Update Readme
+        uses: moedayraki/moedayraki@main
+      - name: Commit results
+        run: |
+          git commit README.md -m 'Re-build README.Rmd' || echo "No changes to commit"
+          git push origin || echo "No changes to commit"
