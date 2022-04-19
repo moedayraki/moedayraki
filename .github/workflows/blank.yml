@@ -20,7 +20,7 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-     # - name: Fetch data
+      - name: Fetch data
      #   run: curl "https://uselessfacts.jsph.pl/today.json?language=en" -o data.json 
      # - name: Parse data
      #   id: parse_data
