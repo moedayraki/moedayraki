@@ -31,7 +31,11 @@ jobs:
       - name: Update Readme
         uses: moedayraki/moedayraki@main
       - name: Commit results
-        run: ls #|
-        # git commit README.md -m 'Re-build README.Rmd' || echo "No changes to commit"
-        # git push origin || echo "No changes to commit"
+        run: |-
+          git diff
+          git config --global user.email "actions@users.noreply.github.com"
+          git config --global user.name "README-bot"
+          git add -A
+          git commit -m "Updated content" || exit 0
+          git push
           
