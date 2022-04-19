@@ -34,3 +34,10 @@ jobs:
         run: |
           git commit README.md -m 'Re-build README.Rmd' || echo "No changes to commit"
           git push origin || echo "No changes to commit"
+      - name: Read package.json
+        id: package
+        uses: juliangruber/read-file-action@v1
+        with:
+          path: ./README.md
+      - name: Echo package.json
+        run: echo "${{ steps.package.outputs.content }}"
