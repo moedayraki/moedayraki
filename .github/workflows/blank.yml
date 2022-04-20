@@ -30,7 +30,7 @@ jobs:
       - name: Check out repo
         uses: actions/checkout@v2
       - name: Update Readme
-        uses: moedayraki/moedayraki@main/daily-update
+        uses: moedayraki/moedayraki@main
       - name: Commit results
         run: |-
           git diff
