@@ -1,18 +1,24 @@
 <script setup lang="ts">
-import { RouterLink, RouterView } from 'vue-router'
-import HelloWorld from '@/components/HelloWorld.vue'
+import { RouterLink, RouterView } from "vue-router";
+import HelloWorld from "@/components/HelloWorld.vue";
 </script>
 
 <template>
   <header>
-    <img alt="Vue logo" class="logo" src="@/assets/logo.svg" width="125" height="125" />
+    <img
+      alt="Moe's Avatar"
+      class="logo"
+      src="https://github.com/moedayraki.png"
+      width="200"
+      height="200"
+    />
 
     <div class="wrapper">
-      <HelloWorld msg="You did it!" />
+      <HelloWorld msg="Hello, Hello! 👋" />
 
       <nav>
         <RouterLink to="/">Home</RouterLink>
-        <RouterLink to="/about">About</RouterLink>
+        <RouterLink to="/about">Contact</RouterLink>
       </nav>
     </div>
   </header>
@@ -21,7 +27,7 @@ import HelloWorld from '@/components/HelloWorld.vue'
 </template>
 
 <style>
-@import '@/assets/base.css';
+@import "@/assets/base.css";
 
 #app {
   max-width: 1280px;
