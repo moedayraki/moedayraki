@@ -35,7 +35,7 @@ function updateContent() {
 <img src="https://github-readme-stats.vercel.app/api?username=moedayraki&count_private=true&show_icons=true&bg_color=000000&title_color=FFFFFF&border_radius=50&custom_title=Status"/>
 </div>
 `
-        fs.writeFile('README.md', updatedContent, function (err) {
+        fs.writeFile('./../README.md', updatedContent, function (err) {
             if (err) throw err;
             console.log('Replaced!');
         });
