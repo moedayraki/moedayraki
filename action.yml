@@ -1,5 +1,5 @@
-name: 'Update Action'
-description: 'Updates the ReadMe'
+name: "Update Action"
+description: "Updates the ReadMe"
 runs:
-  using: 'node16'
-  main: 'index.js'
+  using: "node16"
+  main: "action.js"
