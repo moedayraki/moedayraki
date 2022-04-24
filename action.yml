@@ -2,4 +2,4 @@ name: "Update Action"
 description: "Updates the ReadMe"
 runs:
   using: "node16"
-  main: "action.js"
+  main: "index.js"
