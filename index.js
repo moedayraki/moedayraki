@@ -1,7 +1,7 @@
 function updateContent() {
     const axios = require('axios').default;
     const fs = require('fs');
-    axios.get('https://uselessfacts.jsph.pl/random.json?language=en').then(response => {
+    axios.get('https://uselessfacts.jsph.pl/today.json?language=en').then(response => {
         let updatedContent = `<h1 align="center"> Hello, Hello! The Moe You Know👋</h1>
 <div align="center"><h3>You can also find me on</h3>
     
@@ -37,7 +37,7 @@ function updateContent() {
 `
         fs.writeFile('./../README.md', updatedContent, function (err) {
             if (err) throw err;
-            console.log('Replaced!');
+            console.log(response.data.text);
         });
 
     });
