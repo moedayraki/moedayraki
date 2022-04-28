@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Spain leads the world in cork production</p>
+<p id="fact">American Airlines saved $40,000 in 1987 by eliminating one olive from each salad served in first-class.</p>
 </div>
 <br>
 <div align="center">
