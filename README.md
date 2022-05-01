@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Honeybees have a type of hair on their eyes!</p>
+<p id="fact">Over 60% of all those who marry get divorced.</p>
 </div>
 <br>
 <div align="center">
