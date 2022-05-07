@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Mel Blanc (the voice of Bugs Bunny) was allergic to carrots.</p>
+<p id="fact">In eighteenth-century English gambling dens, there was an employee whose only job was to swallow the dice if there was a police raid.</p>
 </div>
 <br>
 <div align="center">
