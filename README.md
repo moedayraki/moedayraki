@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The Earth experiences 50,000 Earth quakes per year and is hit by Lightning 100 times a second.</p>
+<p id="fact">To "testify" was based on men in the Roman court swearing to a statement made by swearing on their testicles.</p>
 </div>
 <br>
 <div align="center">
