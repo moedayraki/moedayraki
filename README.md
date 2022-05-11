@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">For some time Frederic Chopin, the composer and pianist, wore a beard on only one side of his face, explaining: "It does not matter, my audience sees only my right side."</p>
+<p id="fact">A horse can look forward with one eye and back with the other.</p>
 </div>
 <br>
 <div align="center">
