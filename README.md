@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Ten percent of the Russian government`s income comes from the sale of vodka.</p>
+<p id="fact">Pinocchio is Italian for "pine head."</p>
 </div>
 <br>
 <div align="center">
