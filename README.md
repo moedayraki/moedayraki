@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Every acre of American crops harvested contains 100 pounds of insects.</p>
+<p id="fact">The word Pennsylvania is misspelled on the Liberty Bell.</p>
 </div>
 <br>
 <div align="center">
