@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Average number of days a West German goes without washing his underwear: 7</p>
+<p id="fact">Jefferson invented the dumbwaiter, the monetary system, and the folding attic ladder.</p>
 </div>
 <br>
 <div align="center">
