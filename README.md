@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Jefferson invented the dumbwaiter, the monetary system, and the folding attic ladder.</p>
+<p id="fact">The thumbnail grows the slowest, the middle nail the fastest, nearly 4 times faster than toenails.</p>
 </div>
 <br>
 <div align="center">
