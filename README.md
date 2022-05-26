@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Oak trees do not produce acorns until they are fifty years of age or older.</p>
+<p id="fact">The earth weighs around 6,588,000,000,000,000,000,000,000,000 tons.</p>
 </div>
 <br>
 <div align="center">
