@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The earth weighs around 6,588,000,000,000,000,000,000,000,000 tons.</p>
+<p id="fact">Van Gogh only sold one painting when he was alive.</p>
 </div>
 <br>
 <div align="center">
