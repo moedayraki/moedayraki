@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Van Gogh only sold one painting when he was alive.</p>
+<p id="fact">China has more English speakers than the United States.</p>
 </div>
 <br>
 <div align="center">
