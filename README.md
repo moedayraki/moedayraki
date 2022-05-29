@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">China has more English speakers than the United States.</p>
+<p id="fact">The Minneapolis phone book has 21 pages of Andersons.</p>
 </div>
 <br>
 <div align="center">
