@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The Minneapolis phone book has 21 pages of Andersons.</p>
+<p id="fact">A piece of paper can be folded no more then 9 times.</p>
 </div>
 <br>
 <div align="center">
