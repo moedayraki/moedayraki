@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Bats always turn left when exiting a cave</p>
+<p id="fact">The U.S. military operates 234 golf courses</p>
 </div>
 <br>
 <div align="center">
