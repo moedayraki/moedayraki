@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The U.S. military operates 234 golf courses</p>
+<p id="fact"> was Harrison Ford`s idea so that he could take a bathroom break.</p>
 </div>
 <br>
 <div align="center">
