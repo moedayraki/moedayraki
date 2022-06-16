@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The citrus soda 7-UP was created in 1929; `7` was selected after the original 7-ounce containers and `UP` for the direction of the bubbles.</p>
+<p id="fact">John Lennon`s first girlfriend was named Thelma Pickles.</p>
 </div>
 <br>
 <div align="center">
