@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">A horse can look forward with one eye and back with the other.</p>
+<p id="fact">Women blink nearly twice as much as men.</p>
 </div>
 <br>
 <div align="center">
