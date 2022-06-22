@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Ninety percent of all species that have become extinct have been birds.</p>
+<p id="fact">Reindeer like to eat bananas.</p>
 </div>
 <br>
 <div align="center">
