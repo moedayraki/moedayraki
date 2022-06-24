@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">There are 293 ways to make change for a dollar.</p>
+<p id="fact">NBA superstar Michael Jordan was originally cut from his high school basketball team.</p>
 </div>
 <br>
 <div align="center">
