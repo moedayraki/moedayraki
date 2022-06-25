@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">NBA superstar Michael Jordan was originally cut from his high school basketball team.</p>
+<p id="fact">The longest one-syllable word in the English language is "screeched."</p>
 </div>
 <br>
 <div align="center">
