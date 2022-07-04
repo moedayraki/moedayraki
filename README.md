@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">There is approximately one chicken for every human being in the world.</p>
+<p id="fact">The serial number of the first MAC ever produced was 2001.</p>
 </div>
 <br>
 <div align="center">
