@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">You were born with 300 bones, but by the time you are an adult you will only have 206.</p>
+<p id="fact">It`s against the law to doze off under a hair dryer in Florida/against the law to slap an old friend on the back in Georgia/against the law to Play hopscotch on a Sunday in Missouri.</p>
 </div>
 <br>
 <div align="center">
