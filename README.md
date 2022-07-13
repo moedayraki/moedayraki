@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Over 1000 birds a year die from smashing into windows!</p>
+<p id="fact">February 1865 is the only month in recorded history not to have a full moon.</p>
 </div>
 <br>
 <div align="center">
