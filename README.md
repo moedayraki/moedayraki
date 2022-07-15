@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The muzzle of a lion is like a fingerprint - no two lions have the same pattern of whiskers.  </p>
+<p id="fact">The scene where Indiana Jones shoots the swordsman in Raider’s of the Lost Ark was Harrison Ford's idea so that he could take a bathroom break.</p>
 </div>
 <br>
 <div align="center">
