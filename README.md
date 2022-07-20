@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Any free-moving liquid in outer space will form itself into a sphere, because of its surface tension.</p>
+<p id="fact">Eating the heart of a male Partridge was the cure for impotence in ancient Babylon.</p>
 </div>
 <br>
 <div align="center">
