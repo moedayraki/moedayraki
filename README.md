@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">A piece of paper can be folded no more then 9 times.</p>
+<p id="fact">Peanuts are one of the ingredients of dynamite.</p>
 </div>
 <br>
 <div align="center">
