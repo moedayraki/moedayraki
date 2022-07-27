@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Any free-moving liquid in outer space will form itself into a sphere, because of its surface tension.</p>
+<p id="fact">The male gypsy moth can "smell" the virgin female gypsy moth from 1.8 miles away.  </p>
 </div>
 <br>
 <div align="center">
