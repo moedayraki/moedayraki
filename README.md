@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The male gypsy moth can "smell" the virgin female gypsy moth from 1.8 miles away.  </p>
+<p id="fact">Cats urine glows under a black light.</p>
 </div>
 <br>
 <div align="center">
