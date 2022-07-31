@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">A jellyfish is 95 percent water!</p>
+<p id="fact">On the ground, a group of geese is a gaggle, in the sky it is a skein.</p>
 </div>
 <br>
 <div align="center">
