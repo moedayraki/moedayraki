@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">On the ground, a group of geese is a gaggle, in the sky it is a skein.</p>
+<p id="fact">The characters Bert and Ernie on Sesame Street were named after Bert the cop and Ernie the taxi driver in Frank Capra`s "Its A Wonderful Life."</p>
 </div>
 <br>
 <div align="center">
