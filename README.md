@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The three most recognized Western names in China are Jesus Christ, Richard Nixon, & Elvis Presley.</p>
+<p id="fact">Winston Churchill was born in a ladies` room during a dance.</p>
 </div>
 <br>
 <div align="center">
