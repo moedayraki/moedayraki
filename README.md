@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">When possums are playing `possum`, they are not "playing." They actually pass out from sheer terror.</p>
+<p id="fact">Tehran is the most expensive city on earth.</p>
 </div>
 <br>
 <div align="center">
