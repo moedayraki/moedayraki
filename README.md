@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Celery has negative calories! It takes more calories to eat a piece of celery than the celery has in it.</p>
+<p id="fact">Reindeer like to eat bananas.</p>
 </div>
 <br>
 <div align="center">
