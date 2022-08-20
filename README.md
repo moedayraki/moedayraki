@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">2,000 pounds of space dust and other space debris fall on the Earth every day.</p>
+<p id="fact">Steely Dan got their name from a sexual device depicted in the book `The Naked Lunch`.  </p>
 </div>
 <br>
 <div align="center">
