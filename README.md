@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Steely Dan got their name from a sexual device depicted in the book `The Naked Lunch`.  </p>
+<p id="fact">Half the foods eaten throughout the world today were developed by farmers in the Andes Mountains (including potatoes, maize, sweet potatoes, squash, all varieties of beans, peanuts, manioc, papayas, strawberries, mulberries and many others).</p>
 </div>
 <br>
 <div align="center">
