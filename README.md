@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The average North American will eat 35,000 cookies during their life span.</p>
+<p id="fact">The only nation whose name begins with an "A", but doesn`t end in an "A" is Afghanistan.</p>
 </div>
 <br>
 <div align="center">
