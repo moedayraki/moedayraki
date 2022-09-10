@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The shortest war in history was between Zanzibar and England in 1896. Zanzibar surrendered after 38 minutes.</p>
+<p id="fact">In space, astronauts are unable to cry, because there is no gravity and the tears won`t flow.</p>
 </div>
 <br>
 <div align="center">
