@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">In space, astronauts are unable to cry, because there is no gravity and the tears won`t flow.</p>
+<p id="fact">In most advertisements, including newspapers, the time displayed on a watch is 10:10.</p>
 </div>
 <br>
 <div align="center">
