@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">In most advertisements, including newspapers, the time displayed on a watch is 10:10.</p>
+<p id="fact">The katydid bug hears through holes in its hind legs!</p>
 </div>
 <br>
 <div align="center">
