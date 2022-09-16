@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Only one person in two billion will live to be 116 or older.</p>
+<p id="fact">Leonardo Da Vinci invented the scissors.</p>
 </div>
 <br>
 <div align="center">
