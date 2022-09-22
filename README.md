@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Walt Disney holds the world record for the most Academy Awards won by one person, he has won twenty statuettes, and twelve other plaques and certificates</p>
+<p id="fact">A `jiffy` is a unit of time for 1/100th of a second.</p>
 </div>
 <br>
 <div align="center">
