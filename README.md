@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">In Bangladesh, kids as young as 15 can be jailed for cheating on their finals!</p>
+<p id="fact">If done perfectly, a rubix cube combination can be solved in 17 turns.</p>
 </div>
 <br>
 <div align="center">
