@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">the bird is the word</p>
+<p id="fact">A cat has 32 muscles in each ear.</p>
 </div>
 <br>
 <div align="center">
