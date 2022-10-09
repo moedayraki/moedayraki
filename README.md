@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">38% of American men say they love their cars more than women</p>
+<p id="fact">In the United States, a pound of potato chips costs two hundred times more than a pound of potatoes.</p>
 </div>
 <br>
 <div align="center">
