@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">A crocodile cannot stick its tongue out.</p>
+<p id="fact">If done perfectly, a rubix cube combination can be solved in 17 turns.</p>
 </div>
 <br>
 <div align="center">
