@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Length of beard an average man would grow if he never shaved 27.5 feet</p>
+<p id="fact">The average person spends 12 weeks a year `looking for things`.</p>
 </div>
 <br>
 <div align="center">
