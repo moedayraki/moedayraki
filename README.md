@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">On the ground, a group of geese is a gaggle, in the sky it is a skein.</p>
+<p id="fact">The eyes of a donkey are positioned so that it can see all four feet at all times.</p>
 </div>
 <br>
 <div align="center">
