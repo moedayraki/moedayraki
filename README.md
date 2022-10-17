@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Steely Dan got their name from a sexual device depicted in the book `The Naked Lunch`.  </p>
+<p id="fact">The eyes of a donkey are positioned so that it can see all four feet at all times.</p>
 </div>
 <br>
 <div align="center">
