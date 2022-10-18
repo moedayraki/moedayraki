@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The eyes of a donkey are positioned so that it can see all four feet at all times.</p>
+<p id="fact">The shape of plant collenchyma’s cells and the shape of the bubbles in beer foam are the same - they are orthotetrachidecahedrons.</p>
 </div>
 <br>
 <div align="center">
