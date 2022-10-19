@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The shape of plant collenchyma’s cells and the shape of the bubbles in beer foam are the same - they are orthotetrachidecahedrons.</p>
+<p id="fact">Every time you lick a stamp, you consume 1/10 of a calorie.</p>
 </div>
 <br>
 <div align="center">
