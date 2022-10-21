@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">It has NEVER rained in Calama, a town in the Atacama Desert of Chile.</p>
+<p id="fact">One third of all cancers are sun related.</p>
 </div>
 <br>
 <div align="center">
