@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">One third of all cancers are sun related.</p>
+<p id="fact">In the 1980`s American migraines increased by 60%.</p>
 </div>
 <br>
 <div align="center">
