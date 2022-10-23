@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">In the 1980`s American migraines increased by 60%.</p>
+<p id="fact">There are more plastic flamingos in the U.S that there are real ones.</p>
 </div>
 <br>
 <div align="center">
