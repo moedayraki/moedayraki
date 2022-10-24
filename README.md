@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">There are more plastic flamingos in the U.S that there are real ones.</p>
+<p id="fact">5,840 people with pillow related injuries checked into U.S. emergency rooms in 1992.</p>
 </div>
 <br>
 <div align="center">
