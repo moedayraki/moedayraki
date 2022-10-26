@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Humans are the only primates that don`t have pigment in the palms of their hands.</p>
+<p id="fact">The average person falls asleep in seven minutes.</p>
 </div>
 <br>
 <div align="center">
