@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The praying mantis is the only insect that can turn its head</p>
+<p id="fact">Most toilets flush in E flat.</p>
 </div>
 <br>
 <div align="center">
