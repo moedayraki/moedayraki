@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">If one spells out numbers, they would have to count to One Thousand before coming across the letter "A".</p>
+<p id="fact">Because of the rotation of the earth, an object can be thrown farther if it is thrown west.</p>
 </div>
 <br>
 <div align="center">
