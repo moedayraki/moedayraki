@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Because of the rotation of the earth, an object can be thrown farther if it is thrown west.</p>
+<p id="fact">Pinocchio is Italian for "pine head."</p>
 </div>
 <br>
 <div align="center">
