@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Between 25% and 33% of the population sneeze when exposed to light.</p>
+<p id="fact">Rhode Island is the only state which the hammer throw is a legal high school sport.</p>
 </div>
 <br>
 <div align="center">
