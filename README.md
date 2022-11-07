@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Rhode Island is the only state which the hammer throw is a legal high school sport.</p>
+<p id="fact">A literal translation of a standard traffic sign in China: "Give large space to the festive dog that makes sport in the roadway."</p>
 </div>
 <br>
 <div align="center">
