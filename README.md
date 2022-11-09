@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Approximately every seven minutes of every day, someone in an aerobics class pulls their hamstring.</p>
+<p id="fact">Valentine Tapley from Pike County, Missouri  grew chin whiskers attaining a length of twelve feet six inches from 1860 until his death 1910, protesting Abraham Lincoln`s election to the presidency.</p>
 </div>
 <br>
 <div align="center">
