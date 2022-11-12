@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Two-thirds of the world`s eggplant is grown in New Jersey.  </p>
+<p id="fact">The "save" icon on Microsoft Word shows a floppy disk with the shutter on backwards.</p>
 </div>
 <br>
 <div align="center">
