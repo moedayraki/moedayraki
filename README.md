@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Bees have 5 eyes. There are 3 small eyes on the top of a bee`s head and 2 larger ones in front.</p>
+<p id="fact">You can be fined up to $1,000 for whistling on Sunday in Salt Lake City, Utah.</p>
 </div>
 <br>
 <div align="center">
