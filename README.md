@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The average person will accidentally eat just under a pound of insects every year.</p>
+<p id="fact">Jefferson invented the dumbwaiter, the monetary system, and the folding attic ladder.</p>
 </div>
 <br>
 <div align="center">
