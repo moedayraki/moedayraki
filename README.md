@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Facetious and abstemious contain all the vowels in the correct order, as does arsenious, meaning "containing arsenic."  </p>
+<p id="fact">Humans are the only primates that don`t have pigment in the palms of their hands.</p>
 </div>
 <br>
 <div align="center">
