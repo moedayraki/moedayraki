@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The airplane Buddy Holly died in was the "American Pie." (Thus the name of the Don McLean song.)</p>
+<p id="fact">Babies are most likely to be born on Tuesdays.</p>
 </div>
 <br>
 <div align="center">
