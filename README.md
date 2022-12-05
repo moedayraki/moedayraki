@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Babies are most likely to be born on Tuesdays.</p>
+<p id="fact">There`s a systematic lull in conversation every 7 minutes.</p>
 </div>
 <br>
 <div align="center">
