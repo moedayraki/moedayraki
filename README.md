@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">There`s a systematic lull in conversation every 7 minutes.</p>
+<p id="fact">Shakespeare is quoted 33,150 times in the Oxford English dictionary.</p>
 </div>
 <br>
 <div align="center">
