@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Women blink nearly twice as much as men.</p>
+<p id="fact">All US Presidents have worn glasses; some just didn`t like being seen wearing them in public.</p>
 </div>
 <br>
 <div align="center">
