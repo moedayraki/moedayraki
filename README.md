@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Hot water is heavier than cold.</p>
+<p id="fact">The only real person to ever to appear on a pez dispenser was Betsy Ross.</p>
 </div>
 <br>
 <div align="center">
