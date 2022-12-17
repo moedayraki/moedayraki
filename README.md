@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The characters Bert and Ernie on Sesame Street were named after Bert the cop and Ernie the taxi driver in Frank Capra`s "Its A Wonderful Life."</p>
+<p id="fact">The praying mantis is the only insect that can turn its head</p>
 </div>
 <br>
 <div align="center">
