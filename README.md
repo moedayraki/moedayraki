@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Former basketball superstar Michael Jordan is the most recognized face in the world, more than the pope himself.</p>
+<p id="fact">Arnold Schonberg suffered from triskaidecaphobia, the fear of the number 13.  He died at 13 minutes from midnight on Friday the 13th.</p>
 </div>
 <br>
 <div align="center">
