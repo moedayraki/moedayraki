@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The Black Widow spider eats her mate during or after sex.</p>
+<p id="fact">John Lennon`s first girlfriend was named Thelma Pickles.</p>
 </div>
 <br>
 <div align="center">
