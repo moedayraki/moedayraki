@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The name Jeep came from the abbreviation used in the army. G.P. for `General Purpose` vehicle.</p>
+<p id="fact">10,000 Dutch cows pass through the Amsterdam airport each year.</p>
 </div>
 <br>
 <div align="center">
