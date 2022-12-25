@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">10,000 Dutch cows pass through the Amsterdam airport each year.</p>
+<p id="fact">The average person spends 6 months of their life sitting at red lights.</p>
 </div>
 <br>
 <div align="center">
