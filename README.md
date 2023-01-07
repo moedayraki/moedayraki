@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Rubber bands last longer when refrigerated.  </p>
+<p id="fact">Months that begin on a Sunday will always have a `Friday the 13th`.</p>
 </div>
 <br>
 <div align="center">
