@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">To escape the grip of a crocodile`s jaws, push your thumbs into its eyeballs - it will let you go instantly.</p>
+<p id="fact">This common everyday occurrence composed of 59% nitrogen, 21% hydrogen, and 9% dioxide is called a `fart`.</p>
 </div>
 <br>
 <div align="center">
