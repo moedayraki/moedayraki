@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Dr. Kellogg introduced Kellogg`s Corn Flakes in hopes that it would reduce masturbation.</p>
+<p id="fact">Peanuts are one of the ingredients of dynamite.</p>
 </div>
 <br>
 <div align="center">
