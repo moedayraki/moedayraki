@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The average North American will eat 35,000 cookies during their life span.</p>
+<p id="fact">Only female mosquito’s` bite and most are attracted to the color blue twice as much as to any other color.</p>
 </div>
 <br>
 <div align="center">
