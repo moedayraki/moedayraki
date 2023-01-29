@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Only female mosquito’s` bite and most are attracted to the color blue twice as much as to any other color.</p>
+<p id="fact">Leonardo da Vinci could write with one hand while drawing with the other</p>
 </div>
 <br>
 <div align="center">
