@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The longest recorded flight of a chicken is thirteen seconds.</p>
+<p id="fact">Elephants are the only animals that can`t jump.</p>
 </div>
 <br>
 <div align="center">
