@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The phrase "rule of thumb" is derived from an old English law, which stated that you couldn`t beat your wife with anything wider than your thumb.</p>
+<p id="fact">You can be fined up to $1,000 for whistling on Sunday in Salt Lake City, Utah.</p>
 </div>
 <br>
 <div align="center">
