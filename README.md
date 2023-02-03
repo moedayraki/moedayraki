@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">You can be fined up to $1,000 for whistling on Sunday in Salt Lake City, Utah.</p>
+<p id="fact">CBS` "60 Minutes" is the only TV show without a theme song/music.</p>
 </div>
 <br>
 <div align="center">
