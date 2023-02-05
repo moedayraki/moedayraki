@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Your stomach has to produce a new layer of mucus every 2 weeks otherwise it will digest itself.</p>
+<p id="fact">A piece of paper can be folded no more then 9 times.</p>
 </div>
 <br>
 <div align="center">
