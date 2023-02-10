@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The average woman consumes 6 lbs of lipstick in her lifetime.</p>
+<p id="fact">The Eisenhower interstate system requires that one mile in every five must be straight in case of war or emergency, they could be used as airstrips.</p>
 </div>
 <br>
 <div align="center">
