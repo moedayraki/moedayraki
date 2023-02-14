@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">A family of 26 could go to the movies in Mexico city for the price of one in Tokyo.</p>
+<p id="fact">It`s possible to lead a cow upstairs but not downstairs.</p>
 </div>
 <br>
 <div align="center">
