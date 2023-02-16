@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The value of Pi will be officially "rounded down" to 3.14 from 3.14159265359 on December 31, 1999.</p>
+<p id="fact">Most Egyptians died by the time they were 30 about 300 years ago,</p>
 </div>
 <br>
 <div align="center">
