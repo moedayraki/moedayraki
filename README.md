@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Most Egyptians died by the time they were 30 about 300 years ago,</p>
+<p id="fact">Donald Duck comics were banned from Finland because he doesn`t wear pants!</p>
 </div>
 <br>
 <div align="center">
