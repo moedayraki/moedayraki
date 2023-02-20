@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The letters KGB stand for Komitet Gosudarstvennoy Bezopasnosti.  </p>
+<p id="fact">On average, Americans eat 18 acres of pizza everyday.</p>
 </div>
 <br>
 <div align="center">
