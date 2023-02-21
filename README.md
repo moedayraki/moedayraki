@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">On average, Americans eat 18 acres of pizza everyday.</p>
+<p id="fact">Emus and kangaroos cannot walk backwards, and are on the Australian coat of arms for that reason.</p>
 </div>
 <br>
 <div align="center">
