@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Emus and kangaroos cannot walk backwards, and are on the Australian coat of arms for that reason.</p>
+<p id="fact">Bullet proof vests, fire escapes, windshield wipers, and laser printers were all invented by women</p>
 </div>
 <br>
 <div align="center">
