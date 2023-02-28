@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The letters KGB stand for Komitet Gosudarstvennoy Bezopasnosti.  </p>
+<p id="fact">A raisin dropped in a glass of fresh champagne will bounce up and down continually from the bottom of the glass to the top.</p>
 </div>
 <br>
 <div align="center">
