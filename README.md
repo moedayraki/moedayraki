@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Rhode Island is the only state which the hammer throw is a legal high school sport.</p>
+<p id="fact">In Disney`s Fantasia, the Sorcerer`s name is "Yensid" (Disney backwards.)</p>
 </div>
 <br>
 <div align="center">
