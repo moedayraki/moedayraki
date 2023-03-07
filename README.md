@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The serial number of the first MAC ever produced was 2001.</p>
+<p id="fact">On an American one-dollar bill, there is an owl in the upper left-hand corner of the "1"encased in the "shield" and a spider hidden in the front upper right-hand corner.</p>
 </div>
 <br>
 <div align="center">
