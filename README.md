@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The value of Pi will be officially "rounded down" to 3.14 from 3.14159265359 on December 31, 1999.</p>
+<p id="fact">400-quarter pounders can be made from 1 cow.</p>
 </div>
 <br>
 <div align="center">
