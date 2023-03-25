@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The average lifespan of an eyelash is five months.</p>
+<p id="fact">Dr. Jack Kevorkian first patient has Alzheimer`s disease.</p>
 </div>
 <br>
 <div align="center">
