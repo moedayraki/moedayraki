@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Dr. Jack Kevorkian first patient has Alzheimer`s disease.</p>
+<p id="fact">Worcestershire sauce in essentially an Anchovy Ketchup.</p>
 </div>
 <br>
 <div align="center">
