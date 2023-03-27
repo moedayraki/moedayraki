@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Worcestershire sauce in essentially an Anchovy Ketchup.</p>
+<p id="fact">Firehouses have circular stairways originating from the old days when the engines were pulled by horses. The horses were stabled on the ground floor and figured out how to walk up straight staircases.</p>
 </div>
 <br>
 <div align="center">
