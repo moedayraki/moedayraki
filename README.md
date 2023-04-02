@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Recycling one glass jar, saves enough energy to watch T.V for 3 hours!</p>
+<p id="fact">The longest one-syllable word in the English language is "screeched."</p>
 </div>
 <br>
 <div align="center">
