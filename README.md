@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The longest one-syllable word in the English language is "screeched."</p>
+<p id="fact">Bees have 5 eyes. There are 3 small eyes on the top of a bee`s head and 2 larger ones in front.</p>
 </div>
 <br>
 <div align="center">
