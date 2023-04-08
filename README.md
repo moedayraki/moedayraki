@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">In the United States, a pound of potato chips costs two hundred times more than a pound of potatoes.</p>
+<p id="fact">`Stewardesses` is the longest word that is typed with only the left hand.</p>
 </div>
 <br>
 <div align="center">
