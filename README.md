@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The average person falls asleep in seven minutes.</p>
+<p id="fact">Approximately every seven minutes of every day, someone in an aerobics class pulls their hamstring.</p>
 </div>
 <br>
 <div align="center">
