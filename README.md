@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">It takes 3,000 cows to supply the NFL with enough leather for a year`s supply of footballs.</p>
+<p id="fact">When the University of Nebraska Cornhuskers play football at home, the stadium becomes the state`s third largest city.</p>
 </div>
 <br>
 <div align="center">
