@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">When the University of Nebraska Cornhuskers play football at home, the stadium becomes the state`s third largest city.</p>
+<p id="fact">On average, people fear spiders more than they do death.</p>
 </div>
 <br>
 <div align="center">
