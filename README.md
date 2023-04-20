@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">In a lifetime the average human produces enough quarts of spit to fill 2 swimming pools.</p>
+<p id="fact">The word "Checkmate" in chess comes from the Persian phrase "Shah Mat," which means "the king is dead."</p>
 </div>
 <br>
 <div align="center">
