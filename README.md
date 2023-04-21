@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The word "Checkmate" in chess comes from the Persian phrase "Shah Mat," which means "the king is dead."</p>
+<p id="fact">More people are killed annually by donkeys than airplane crashes.</p>
 </div>
 <br>
 <div align="center">
