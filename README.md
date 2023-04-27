@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">William Marston engineered one of the earliest forms of the polygraph in the early 1900`s. Later he went on to create the comic strip Wonder Woman, a story about a displaced Amazon princess who forces anyone caught in her magic lasso to tell the truth</p>
+<p id="fact">One third of all cancers are sun related.</p>
 </div>
 <br>
 <div align="center">
