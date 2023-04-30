@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The average American/Canadian will eat about 11.9 pounds of cereal per year!</p>
+<p id="fact">You burn more calories sleeping than you do watching TV.</p>
 </div>
 <br>
 <div align="center">
