@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Bats always turn left when exiting a cave</p>
+<p id="fact">When a Hawaiian woman wears a flower over her left ear, it means that she is not available.</p>
 </div>
 <br>
 <div align="center">
