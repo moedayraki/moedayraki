@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">If a rooster can`t fully extend its neck, it can`t crow.</p>
+<p id="fact">The average American looks at eight houses before buying one.</p>
 </div>
 <br>
 <div align="center">
