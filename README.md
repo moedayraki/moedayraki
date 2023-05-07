@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The average American looks at eight houses before buying one.</p>
+<p id="fact">Tom Sawyer was the first novel written on a typewriter.</p>
 </div>
 <br>
 <div align="center">
