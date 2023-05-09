@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Fictional/horror writer Stephen King sleeps with a nearby light on to calm his fear of the dark. </p>
+<p id="fact">When you sneeze, air and particles travel through the nostrils at speeds over100 mph.  During this time, all bodily functions stop, including your heart, contributing to the impossibility of keeping one`s eyes open during a sneeze.</p>
 </div>
 <br>
 <div align="center">
