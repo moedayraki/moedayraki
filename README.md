@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">There are 269 steps to the top of the Leaning Tower of Pisa</p>
+<p id="fact">There are only four words in the English language which end in "dous": tremendous, horrendous, stupendous, and  hazardous.</p>
 </div>
 <br>
 <div align="center">
