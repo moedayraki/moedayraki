@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The longest word in the English language, according to the Oxford English Dictionary, is: pneumonoultramicroscopicsilicovolcanoconiosis..  </p>
+<p id="fact">The dot over the letter `i` is called a tittle.  </p>
 </div>
 <br>
 <div align="center">
