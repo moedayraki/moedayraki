@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The dot over the letter `i` is called a tittle.  </p>
+<p id="fact">Nearly 80% of all animals on earth have six legs.</p>
 </div>
 <br>
 <div align="center">
