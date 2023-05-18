@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Mozart wrote the nursery rhyme `twinkle, twinkle, little star` at the age of 5.</p>
+<p id="fact">The muzzle of a lion is like a fingerprint - no two lions have the same pattern of whiskers.  </p>
 </div>
 <br>
 <div align="center">
