@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The muzzle of a lion is like a fingerprint - no two lions have the same pattern of whiskers.  </p>
+<p id="fact">Because of the rotation of the earth, an object can be thrown farther if it is thrown west.</p>
 </div>
 <br>
 <div align="center">
