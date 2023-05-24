@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The symbol on the "pound" key (#) is called an octothorpe..  </p>
+<p id="fact">Iceland consumes more Coca-Cola per capita than any other nation.</p>
 </div>
 <br>
 <div align="center">
