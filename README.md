@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Iceland consumes more Coca-Cola per capita than any other nation.</p>
+<p id="fact">Venus is the only planet that rotates clockwise.</p>
 </div>
 <br>
 <div align="center">
