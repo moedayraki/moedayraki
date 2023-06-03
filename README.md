@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">There are 269 steps to the top of the Leaning Tower of Pisa</p>
+<p id="fact">Length of beard an average man would grow if he never shaved 27.5 feet</p>
 </div>
 <br>
 <div align="center">
