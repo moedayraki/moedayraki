@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The giant squid has the largest eyes in the world.</p>
+<p id="fact">The site with the highest number of women visitors between the age of 35 and 44 years old: Alka-Seltzer.com</p>
 </div>
 <br>
 <div align="center">
