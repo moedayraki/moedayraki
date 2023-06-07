@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The site with the highest number of women visitors between the age of 35 and 44 years old: Alka-Seltzer.com</p>
+<p id="fact">It takes about 142.18 licks to reach the center of a Tootsie pop.</p>
 </div>
 <br>
 <div align="center">
