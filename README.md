@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">It takes about 142.18 licks to reach the center of a Tootsie pop.</p>
+<p id="fact">James Bond`s car had three different license plates in Goldfinger</p>
 </div>
 <br>
 <div align="center">
