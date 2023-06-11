@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">There are only four words in the English language which end in "dous": tremendous, horrendous, stupendous, and  hazardous.</p>
+<p id="fact">Facetious and abstemious contain all the vowels in the correct order, as does arsenious, meaning "containing arsenic."  </p>
 </div>
 <br>
 <div align="center">
