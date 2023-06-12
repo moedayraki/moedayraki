@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Facetious and abstemious contain all the vowels in the correct order, as does arsenious, meaning "containing arsenic."  </p>
+<p id="fact">Mozart wrote the nursery rhyme `twinkle, twinkle, little star` at the age of 5.</p>
 </div>
 <br>
 <div align="center">
