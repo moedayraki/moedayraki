@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">When possums are playing `possum`, they are not "playing." They actually pass out from sheer terror.</p>
+<p id="fact">Most lipstick contains fish scales!</p>
 </div>
 <br>
 <div align="center">
