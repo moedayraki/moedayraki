@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Most lipstick contains fish scales!</p>
+<p id="fact">`Stewardesses` is the longest word that is typed with only the left hand.</p>
 </div>
 <br>
 <div align="center">
