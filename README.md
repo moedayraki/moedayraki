@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Weatherman Willard Scott was the first original Ronald McDonald.</p>
+<p id="fact">The first song played on Armed Forces Radio during operation Desert Shield was "Rock the Casba" by the Clash.</p>
 </div>
 <br>
 <div align="center">
