@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Your stomach has to produce a new layer of mucus every 2 weeks otherwise it will digest itself.</p>
+<p id="fact">The scene where Indiana Jones shoots the swordsman in Raider’s of the Lost Ark was Harrison Ford's idea so that he could take a bathroom break.</p>
 </div>
 <br>
 <div align="center">
