@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Men can read smaller print than women; women can hear better.</p>
+<p id="fact">Peanuts actually grow underground, as opposed to nuts like walnuts, almonds, etc. that grow on trees (and are sometimes referred to as "tree nuts"). Peanuts, along with beans and peas, belong to the single plant family, Leguminosae. Legumes are edible seeds enclosed in pods.</p>
 </div>
 <br>
 <div align="center">
