@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The average person spends 6 months of their life sitting at red lights.</p>
+<p id="fact">The average American butt is 14.9 inches long.</p>
 </div>
 <br>
 <div align="center">
