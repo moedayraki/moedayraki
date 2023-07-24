@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">If you go blind in one eye you only lose about one fifth of your vision but all your sense of depth.</p>
+<p id="fact">More people are killed annually by donkeys than airplane crashes.</p>
 </div>
 <br>
 <div align="center">
