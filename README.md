@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">James Bond`s car had three different license plates in Goldfinger</p>
+<p id="fact">In the United States, a pound of potato chips costs two hundred times more than a pound of potatoes.</p>
 </div>
 <br>
 <div align="center">
