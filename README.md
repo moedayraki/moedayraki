@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The average person`s left hand does 56% of the typing.</p>
+<p id="fact">Jefferson invented the dumbwaiter, the monetary system, and the folding attic ladder.</p>
 </div>
 <br>
 <div align="center">
