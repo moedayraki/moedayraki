@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Jefferson invented the dumbwaiter, the monetary system, and the folding attic ladder.</p>
+<p id="fact">It takes about 142.18 licks to reach the center of a Tootsie pop.</p>
 </div>
 <br>
 <div align="center">
