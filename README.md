@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">the bird is the word</p>
+<p id="fact">The letters KGB stand for Komitet Gosudarstvennoy Bezopasnosti.  </p>
 </div>
 <br>
 <div align="center">
