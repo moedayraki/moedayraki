@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The world record for spitting a watermelon seed is 65 feet 4 inches.</p>
+<p id="fact">Mike Nesmith`s (the guitarist of The Monkeys) mom invented White Out.</p>
 </div>
 <br>
 <div align="center">
