@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The word Pennsylvania is misspelled on the Liberty Bell.</p>
+<p id="fact">The human heart creates enough pressure to squirt blood 30ft.</p>
 </div>
 <br>
 <div align="center">
