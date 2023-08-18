@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The human heart creates enough pressure to squirt blood 30ft.</p>
+<p id="fact">You spend 7 years of your life in the bathroom.</p>
 </div>
 <br>
 <div align="center">
