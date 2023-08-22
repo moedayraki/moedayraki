@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Facetious and abstemious contain all the vowels in the correct order, as does arsenious, meaning "containing arsenic."  </p>
+<p id="fact">If Texas were a country, its GNP would be the fifth largest of any country in the world.</p>
 </div>
 <br>
 <div align="center">
