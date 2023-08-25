@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Nutmeg is extremely poisonous if injected intravenously.</p>
+<p id="fact">A Boeing 747`s wingspan is longer than the Wright brother`s first flight.</p>
 </div>
 <br>
 <div align="center">
