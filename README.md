@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">A Boeing 747`s wingspan is longer than the Wright brother`s first flight.</p>
+<p id="fact">Dentists have recommended that a toothbrush be kept at least 6 feet away from a toilet to avoid airborne particles resulting from the flush.</p>
 </div>
 <br>
 <div align="center">
