@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">John Lennon`s first girlfriend was named Thelma Pickles.</p>
+<p id="fact">Walt Disney was afraid of mice.</p>
 </div>
 <br>
 <div align="center">
