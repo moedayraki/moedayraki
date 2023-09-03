@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Walt Disney was afraid of mice.</p>
+<p id="fact">Half of all Americans live within 50 miles of their birthplace.</p>
 </div>
 <br>
 <div align="center">
