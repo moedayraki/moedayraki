@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Half of all Americans live within 50 miles of their birthplace.</p>
+<p id="fact">In the early 1940s, the FCC assigned television`s Channel 1 to mobile services (like two-way radios in taxis) but did not re-number the other channel assignments.</p>
 </div>
 <br>
 <div align="center">
