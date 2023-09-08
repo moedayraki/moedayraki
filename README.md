@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Kelsey Grammar sings and plays the piano for the theme song of Fraiser.</p>
+<p id="fact">Babies are born without kneecaps. They don`t appear until the child reaches 2-6 years of age.</p>
 </div>
 <br>
 <div align="center">
