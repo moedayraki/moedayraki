@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Babies are born without kneecaps. They don`t appear until the child reaches 2-6 years of age.</p>
+<p id="fact">A shark is the only fish that can blink with both eyes.</p>
 </div>
 <br>
 <div align="center">
