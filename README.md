@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Reindeer like to eat bananas.</p>
+<p id="fact">The longest one-syllable word in the English language is "screeched."</p>
 </div>
 <br>
 <div align="center">
