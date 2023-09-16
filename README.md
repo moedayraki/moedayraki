@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The `Golden Arches` of fast food chain McDonalds is more recognized worldwide than the religious cross of Christianity.</p>
+<p id="fact">The name of the girl on the statue of liberty is Mother of Exiles.</p>
 </div>
 <br>
 <div align="center">
