@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Each king in a deck of playing cards represents a great king from history. Spades - King David, Clubs - Alexander the Great, Hearts - Charlemagne, and Diamonds - Julius Caesar.</p>
+<p id="fact">Napoleon`s penis was sold to an American Urologist for $40,000.</p>
 </div>
 <br>
 <div align="center">
