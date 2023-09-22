@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Napoleon`s penis was sold to an American Urologist for $40,000.</p>
+<p id="fact">A snail can sleep for three years.</p>
 </div>
 <br>
 <div align="center">
