@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">A snail can sleep for three years.</p>
+<p id="fact">Every year 11,000 Americans injure themselves while trying out bizarre sexual positions.</p>
 </div>
 <br>
 <div align="center">
