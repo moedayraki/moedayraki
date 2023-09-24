@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Every year 11,000 Americans injure themselves while trying out bizarre sexual positions.</p>
+<p id="fact">Q is the only letter in the alphabet that does not appear in the name of any of the United States!</p>
 </div>
 <br>
 <div align="center">
