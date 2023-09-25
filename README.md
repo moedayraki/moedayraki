@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Q is the only letter in the alphabet that does not appear in the name of any of the United States!</p>
+<p id="fact">Alfred Hitchcock didn`t have a belly button. It was eliminated when he was sewn up after surgery.</p>
 </div>
 <br>
 <div align="center">
