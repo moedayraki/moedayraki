@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Alfred Hitchcock didn`t have a belly button. It was eliminated when he was sewn up after surgery.</p>
+<p id="fact">The average lead pencil will draw a line 35 miles long or write approximately 50,000 English words.  More than 2 billion pencils are manufactured each year in the United States. If these were laid end to end they would circle the world nine times.</p>
 </div>
 <br>
 <div align="center">
