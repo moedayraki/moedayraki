@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">"I am." is the shortest complete sentence in the English language.</p>
+<p id="fact">It is illegal to eat oranges while bathing in California.</p>
 </div>
 <br>
 <div align="center">
