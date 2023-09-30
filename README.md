@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Recycling one glass jar, saves enough energy to watch T.V for 3 hours!</p>
+<p id="fact">Walt Disney was afraid of mice.</p>
 </div>
 <br>
 <div align="center">
