@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Until 1994, world maps and globes sold in Albania only had Albania on them.</p>
+<p id="fact">There are more than 10 million bricks in the Empire State Building!</p>
 </div>
 <br>
 <div align="center">
