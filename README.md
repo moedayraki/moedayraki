@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The katydid bug hears through holes in its hind legs!</p>
+<p id="fact">%60 of all people using the Internet, use it for pornography.</p>
 </div>
 <br>
 <div align="center">
