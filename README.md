@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">%60 of all people using the Internet, use it for pornography.</p>
+<p id="fact">A pig`s orgasm lasts for 30 minutes.</p>
 </div>
 <br>
 <div align="center">
