@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">A pig`s orgasm lasts for 30 minutes.</p>
+<p id="fact">1 in every 4 Americans has appeared someway or another on television.</p>
 </div>
 <br>
 <div align="center">
