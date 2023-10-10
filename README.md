@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">1 in every 4 Americans has appeared someway or another on television.</p>
+<p id="fact">If you yelled for 8 years, 7 months and 6 days, you will have produced enough sound energy to heat one cup of coffee.</p>
 </div>
 <br>
 <div align="center">
