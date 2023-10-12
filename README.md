@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Tom Sawyer was the first novel written on a typewriter.</p>
+<p id="fact">Donald Duck`s middle name is Fauntleroy.  </p>
 </div>
 <br>
 <div align="center">
