@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Donald Duck`s middle name is Fauntleroy.  </p>
+<p id="fact">Between 2 and 3 jockeys are killed each year in horse racing.</p>
 </div>
 <br>
 <div align="center">
