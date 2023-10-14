@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Between 2 and 3 jockeys are killed each year in horse racing.</p>
+<p id="fact">The eyes of a donkey are positioned so that it can see all four feet at all times.</p>
 </div>
 <br>
 <div align="center">
