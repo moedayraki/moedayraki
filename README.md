@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The placement of a donkey`s eyes in its` heads enables it to see all four feet at all times!</p>
+<p id="fact">Former basketball superstar Michael Jordan is the most recognized face in the world, more than the pope himself.</p>
 </div>
 <br>
 <div align="center">
