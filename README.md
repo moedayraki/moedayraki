@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Former basketball superstar Michael Jordan is the most recognized face in the world, more than the pope himself.</p>
+<p id="fact">Men can read smaller print than women; women can hear better.</p>
 </div>
 <br>
 <div align="center">
