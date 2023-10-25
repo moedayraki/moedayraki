@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">100% of lottery winners do gain weight</p>
+<p id="fact">The average person will accidentally eat just under a pound of insects every year.</p>
 </div>
 <br>
 <div align="center">
