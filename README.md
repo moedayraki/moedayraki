@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The average person will accidentally eat just under a pound of insects every year.</p>
+<p id="fact">Ants closely resemble human manners:  When they wake, they stretch & appear to yawn in a human manner before taking up the tasks of the day.</p>
 </div>
 <br>
 <div align="center">
