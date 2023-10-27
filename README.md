@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Ants closely resemble human manners:  When they wake, they stretch & appear to yawn in a human manner before taking up the tasks of the day.</p>
+<p id="fact">The world`s record for keeping a Lifesaver in the mouth with the hole intact is 7 hrs 10 min.</p>
 </div>
 <br>
 <div align="center">
