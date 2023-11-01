@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">CBS` "60 Minutes" is the only TV show without a theme song/music.</p>
+<p id="fact">The storage capacity of human brain exceeds 4 Terabytes.</p>
 </div>
 <br>
 <div align="center">
