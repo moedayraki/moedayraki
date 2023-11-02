@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The storage capacity of human brain exceeds 4 Terabytes.</p>
+<p id="fact">Until 1994, world maps and globes sold in Albania only had Albania on them.</p>
 </div>
 <br>
 <div align="center">
