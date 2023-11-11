@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">A rainbow can be seen only in the morning or late afternoon. It can occur only when the sun is 40 degrees or less above the horizon.</p>
+<p id="fact">A literal translation of a standard traffic sign in China: "Give large space to the festive dog that makes sport in the roadway."</p>
 </div>
 <br>
 <div align="center">
