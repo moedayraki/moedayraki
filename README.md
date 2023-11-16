@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">There are more than 10 million bricks in the Empire State Building!</p>
+<p id="fact">Facetious and abstemious contain all the vowels in the correct order, as does arsenious, meaning "containing arsenic."  </p>
 </div>
 <br>
 <div align="center">
