@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">A `jiffy` is a unit of time for 1/100th of a second.</p>
+<p id="fact">In Disney`s Fantasia, the Sorcerer`s name is "Yensid" (Disney backwards.)</p>
 </div>
 <br>
 <div align="center">
