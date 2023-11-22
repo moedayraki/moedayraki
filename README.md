@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Hot water is heavier than cold.</p>
+<p id="fact">Barbie`s measurements, if she were life-size, would be 39-29-33.</p>
 </div>
 <br>
 <div align="center">
