@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The buzz from an electric razor in America plays in the key of B flat; Key of G in England.</p>
+<p id="fact">The very first bomb dropped by the Allies on Berlin during World War II Killed the only elephant in the Berlin Zoo.</p>
 </div>
 <br>
 <div align="center">
