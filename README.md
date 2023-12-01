@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">There are more than 10 million bricks in the Empire State Building!</p>
+<p id="fact">The pop you hear when you crack your knuckles is actually a bubble of gas burning.</p>
 </div>
 <br>
 <div align="center">
