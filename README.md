@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The pop you hear when you crack your knuckles is actually a bubble of gas burning.</p>
+<p id="fact">Most lipstick contains fish scales!</p>
 </div>
 <br>
 <div align="center">
