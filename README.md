@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Who`s that playing the piano on the "Mad About You" theme? Paul Reiser himself.</p>
+<p id="fact">It is illegal to hunt camels in the state of Arizona.</p>
 </div>
 <br>
 <div align="center">
