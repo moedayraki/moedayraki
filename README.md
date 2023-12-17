@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The average talker sprays about 300 microscopic saliva droplets per minute, about 2.5 droplets per word.</p>
+<p id="fact">Larry Lewis ran the 100-yard dash in 17.8 seconds in 1969, thereby setting a new world`s record for runners in the 100-years-or-older class. He was 101.</p>
 </div>
 <br>
 <div align="center">
