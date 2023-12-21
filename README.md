@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The common idea that only 10% of the brain is used it not true as it is impossible to determine the actual percentage because of the complexity of the brain.</p>
+<p id="fact">The characters Bert and Ernie on Sesame Street were named after Bert the cop and Ernie the taxi driver in Frank Capra`s "Its A Wonderful Life."</p>
 </div>
 <br>
 <div align="center">
