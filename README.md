@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">More bullets were fired in `Starship Troopers` than any other movie ever made.</p>
+<p id="fact">Leonardo Da Vinci invented the scissors.</p>
 </div>
 <br>
 <div align="center">
