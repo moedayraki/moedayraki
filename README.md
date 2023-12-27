@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Daffy Duck`s middle name is "Dumas"</p>
+<p id="fact">To "testify" was based on men in the Roman court swearing to a statement made by swearing on their testicles.</p>
 </div>
 <br>
 <div align="center">
