@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">An ostrich`s eye is bigger than its brain.  </p>
+<p id="fact">The ant always falls over on its right side when intoxicated.</p>
 </div>
 <br>
 <div align="center">
