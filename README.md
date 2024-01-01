@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The ant always falls over on its right side when intoxicated.</p>
+<p id="fact">You were born with 300 bones, but by the time you are an adult you will only have 206.</p>
 </div>
 <br>
 <div align="center">
