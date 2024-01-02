@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">You were born with 300 bones, but by the time you are an adult you will only have 206.</p>
+<p id="fact">Firehouses have circular stairways originating from the old days when the engines were pulled by horses. The horses were stabled on the ground floor and figured out how to walk up straight staircases.</p>
 </div>
 <br>
 <div align="center">
