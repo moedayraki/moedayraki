@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">It`s against the law to doze off under a hair dryer in Florida/against the law to slap an old friend on the back in Georgia/against the law to Play hopscotch on a Sunday in Missouri.</p>
+<p id="fact">Humans are the only primates that don`t have pigment in the palms of their hands.</p>
 </div>
 <br>
 <div align="center">
