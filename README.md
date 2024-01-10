@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Pinocchio is Italian for "pine head."</p>
+<p id="fact">Oak trees do not produce acorns until they are fifty years of age or older.</p>
 </div>
 <br>
 <div align="center">
