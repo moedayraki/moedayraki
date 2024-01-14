@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Lorne Greene had one of his nipples bitten off by an alligator while he was host of "Lorne Greene`s Wild Kingdom."</p>
+<p id="fact">Most Egyptians died by the time they were 30 about 300 years ago,</p>
 </div>
 <br>
 <div align="center">
