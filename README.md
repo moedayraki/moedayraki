@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Most Egyptians died by the time they were 30 about 300 years ago,</p>
+<p id="fact">The longest word comprised of one row on the keyboard is: TYPEWRITER</p>
 </div>
 <br>
 <div align="center">
