@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The longest word comprised of one row on the keyboard is: TYPEWRITER</p>
+<p id="fact">Shakespeare spelled his OWN name several different ways.</p>
 </div>
 <br>
 <div align="center">
