@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Some individuals express concern sharing their soap, rightly so, considering 75% of all people wash from top to bottom.</p>
+<p id="fact">Chewing gum while peeling onions will keep you from crying.</p>
 </div>
 <br>
 <div align="center">
