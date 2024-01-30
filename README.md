@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">It has been estimated that humans use only 10% of their brain.</p>
+<p id="fact">In Vermont, the ratio of cows to people is 10:1</p>
 </div>
 <br>
 <div align="center">
