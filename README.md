@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Most American car horns honk in the key of F.</p>
+<p id="fact">You can`t kill yourself by holding your breath.  </p>
 </div>
 <br>
 <div align="center">
