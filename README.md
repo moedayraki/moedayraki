@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The state of Florida is bigger than England!</p>
+<p id="fact">The most common street name in the U.S. is Second Street.</p>
 </div>
 <br>
 <div align="center">
