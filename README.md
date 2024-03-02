@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Honeybees have a type of hair on their eyes!</p>
+<p id="fact">The sperm of a mouse is actually longer than the sperm of an elephant.</p>
 </div>
 <br>
 <div align="center">
