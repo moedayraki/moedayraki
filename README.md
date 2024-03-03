@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The sperm of a mouse is actually longer than the sperm of an elephant.</p>
+<p id="fact">Dr. Kellogg introduced Kellogg`s Corn Flakes in hopes that it would reduce masturbation.</p>
 </div>
 <br>
 <div align="center">
