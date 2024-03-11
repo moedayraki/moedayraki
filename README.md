@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">You were born with 300 bones, but by the time you are an adult you will only have 206.</p>
+<p id="fact">Arnold Schonberg suffered from triskaidecaphobia, the fear of the number 13.  He died at 13 minutes from midnight on Friday the 13th.</p>
 </div>
 <br>
 <div align="center">
