@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Arnold Schonberg suffered from triskaidecaphobia, the fear of the number 13.  He died at 13 minutes from midnight on Friday the 13th.</p>
+<p id="fact">If the population of China walked past you in single file, the line would never end because of the rate of reproduction.</p>
 </div>
 <br>
 <div align="center">
