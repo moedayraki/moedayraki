@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">If the population of China walked past you in single file, the line would never end because of the rate of reproduction.</p>
+<p id="fact">In 1778, fashionable women of Paris never went out in blustery weather without a lightning rod attached to their hats.</p>
 </div>
 <br>
 <div align="center">
