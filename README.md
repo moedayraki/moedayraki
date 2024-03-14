@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">In 1778, fashionable women of Paris never went out in blustery weather without a lightning rod attached to their hats.</p>
+<p id="fact">You can sail all the way around the world at latitude 60 degrees south.</p>
 </div>
 <br>
 <div align="center">
