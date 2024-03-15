@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">You can sail all the way around the world at latitude 60 degrees south.</p>
+<p id="fact">Until 1994, world maps and globes sold in Albania only had Albania on them.</p>
 </div>
 <br>
 <div align="center">
