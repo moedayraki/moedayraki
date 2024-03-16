@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Until 1994, world maps and globes sold in Albania only had Albania on them.</p>
+<p id="fact">Jupiter is bigger than all the other planets in our solar system combined.</p>
 </div>
 <br>
 <div align="center">
