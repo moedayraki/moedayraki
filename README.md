@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">There are 1,575 steps from the ground floor to the top of the Empire State building.</p>
+<p id="fact">This common everyday occurrence composed of 59% nitrogen, 21% hydrogen, and 9% dioxide is called a `fart`.</p>
 </div>
 <br>
 <div align="center">
