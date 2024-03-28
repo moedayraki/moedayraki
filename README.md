@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Telly Savalas and Louis Armstrong died on their birthdays.  </p>
+<p id="fact">The pupils of a goat`s eyes are square.</p>
 </div>
 <br>
 <div align="center">
