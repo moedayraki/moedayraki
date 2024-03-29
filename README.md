@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The pupils of a goat`s eyes are square.</p>
+<p id="fact">Cranberries are sorted for ripeness by bouncing them; a fully ripened cranberry can be dribbled like a basketball.  </p>
 </div>
 <br>
 <div align="center">
