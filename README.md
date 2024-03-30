@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Cranberries are sorted for ripeness by bouncing them; a fully ripened cranberry can be dribbled like a basketball.  </p>
+<p id="fact">The placement of a donkey`s eyes in its` heads enables it to see all four feet at all times!</p>
 </div>
 <br>
 <div align="center">
