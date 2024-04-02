@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The placement of a donkey`s eyes in its` heads enables it to see all four feet at all times!</p>
+<p id="fact">"I am." is the shortest complete sentence in the English language.</p>
 </div>
 <br>
 <div align="center">
