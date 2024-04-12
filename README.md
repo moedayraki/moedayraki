@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">There is a seven letter word in the English language that contains ten words without rearranging any of its letters, "therein": the, there, he, in, rein, her, here, ere, therein, herein.  </p>
+<p id="fact">Shakespeare spelled his OWN name several different ways.</p>
 </div>
 <br>
 <div align="center">
