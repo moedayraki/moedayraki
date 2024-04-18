@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Most toilets flush in E flat.</p>
+<p id="fact">Porcupines can float in water.</p>
 </div>
 <br>
 <div align="center">
