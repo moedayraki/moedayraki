@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Porcupines can float in water.</p>
+<p id="fact">400-quarter pounders can be made from 1 cow.</p>
 </div>
 <br>
 <div align="center">
