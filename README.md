@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Caesar salad has nothing to do with any of the Caesars. It was first concocted in a bar in Tijuana, Mexico, in the 1920`s.</p>
+<p id="fact">In Vermont, the ratio of cows to people is 10:1</p>
 </div>
 <br>
 <div align="center">
