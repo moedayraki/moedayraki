@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">James Bond`s car had three different license plates in Goldfinger</p>
+<p id="fact">The average talker sprays about 300 microscopic saliva droplets per minute, about 2.5 droplets per word.</p>
 </div>
 <br>
 <div align="center">
