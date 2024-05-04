@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The average talker sprays about 300 microscopic saliva droplets per minute, about 2.5 droplets per word.</p>
+<p id="fact">The pupils of a goat`s eyes are square.</p>
 </div>
 <br>
 <div align="center">
