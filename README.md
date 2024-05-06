@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The verb "cleave" is the only English word with two synonyms which are antonyms of each other: adhere and separate.</p>
+<p id="fact">The three most recognized Western names in China are Jesus Christ, Richard Nixon, & Elvis Presley.</p>
 </div>
 <br>
 <div align="center">
