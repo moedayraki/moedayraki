@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The three most recognized Western names in China are Jesus Christ, Richard Nixon, & Elvis Presley.</p>
+<p id="fact">South Dakota is the only U.S state which shares no letters with the name of it`s capital</p>
 </div>
 <br>
 <div align="center">
