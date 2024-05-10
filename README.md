@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Deborah Winger did the voice of E.T.</p>
+<p id="fact">Maine is the only state whose name is just one syllable.</p>
 </div>
 <br>
 <div align="center">
