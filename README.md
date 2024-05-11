@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Maine is the only state whose name is just one syllable.</p>
+<p id="fact">There are two credit cards for every person in the United States.</p>
 </div>
 <br>
 <div align="center">
