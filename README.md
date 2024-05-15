@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Iceland consumes more Coca-Cola per capita than any other nation.</p>
+<p id="fact">Coca-Cola was originally green.</p>
 </div>
 <br>
 <div align="center">
