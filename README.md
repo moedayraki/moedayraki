@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">You were born with 300 bones, but by the time you are an adult you will only have 206.</p>
+<p id="fact">Canada makes up 6.67 percent of the Earth`s land area</p>
 </div>
 <br>
 <div align="center">
