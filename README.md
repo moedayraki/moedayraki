@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">In the last 3,500 years, there have been approximately 230 years of peace throughout the civilized world.</p>
+<p id="fact">Dentists have recommended that a toothbrush be kept at least 6 feet away from a toilet to avoid airborne particles resulting from the flush.</p>
 </div>
 <br>
 <div align="center">
