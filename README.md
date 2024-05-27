@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Any free-moving liquid in outer space will form itself into a sphere, because of its surface tension.</p>
+<p id="fact">Over 1000 birds a year die from smashing into windows!</p>
 </div>
 <br>
 <div align="center">
