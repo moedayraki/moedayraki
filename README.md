@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">A jellyfish is 95 percent water!</p>
+<p id="fact">Average life span of a major league baseball: 7 pitches.</p>
 </div>
 <br>
 <div align="center">
