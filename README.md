@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">In Aspen Colorado, you can have a maximum income of $104,000 and still receive government subsidized housing.</p>
+<p id="fact">There is approximately one chicken for every human being in the world.</p>
 </div>
 <br>
 <div align="center">
