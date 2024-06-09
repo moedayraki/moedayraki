@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">John Lennon`s first girlfriend was named Thelma Pickles.</p>
+<p id="fact">One of the reasons marijuana is illegal today is because cotton growers in the 1930s lobbied against hemp farmers they saw it as competition.</p>
 </div>
 <br>
 <div align="center">
