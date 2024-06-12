@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Each of us generates about 3.5 pounds of rubbish a day, most of it paper.</p>
+<p id="fact">A pig`s orgasm lasts for 30 minutes.</p>
 </div>
 <br>
 <div align="center">
