@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">A pig`s orgasm lasts for 30 minutes.</p>
+<p id="fact">The average person spends 12 weeks a year `looking for things`.</p>
 </div>
 <br>
 <div align="center">
