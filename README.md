@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The average person spends 12 weeks a year `looking for things`.</p>
+<p id="fact">Between 25% and 33% of the population sneeze when exposed to light.</p>
 </div>
 <br>
 <div align="center">
