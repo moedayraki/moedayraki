@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Between 25% and 33% of the population sneeze when exposed to light.</p>
+<p id="fact">The longest word comprised of one row on the keyboard is: TYPEWRITER</p>
 </div>
 <br>
 <div align="center">
