@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Telly Savalas and Louis Armstrong died on their birthdays.  </p>
+<p id="fact">The strongest muscle (Relative to size) in the body is the tongue.</p>
 </div>
 <br>
 <div align="center">
