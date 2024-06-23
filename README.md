@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The strongest muscle (Relative to size) in the body is the tongue.</p>
+<p id="fact">A giraffe can go without water longer than a camel.</p>
 </div>
 <br>
 <div align="center">
