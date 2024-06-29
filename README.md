@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The name Jeep came from the abbreviation used in the army. G.P. for `General Purpose` vehicle.</p>
+<p id="fact">Average number of days a West German goes without washing his underwear: 7</p>
 </div>
 <br>
 <div align="center">
