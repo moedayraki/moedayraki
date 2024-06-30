@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Average number of days a West German goes without washing his underwear: 7</p>
+<p id="fact">The San Francisco Cable cars are the only mobile National Monuments.</p>
 </div>
 <br>
 <div align="center">
