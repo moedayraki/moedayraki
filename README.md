@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The San Francisco Cable cars are the only mobile National Monuments.</p>
+<p id="fact">Alfred Hitchcock didn`t have a belly button. It was eliminated when he was sewn up after surgery.</p>
 </div>
 <br>
 <div align="center">
