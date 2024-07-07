@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The katydid bug hears through holes in its hind legs!</p>
+<p id="fact">The amount of computer Memory required to run WordPerfect for Win95 is 8 times the amount needed aboard the space shuttle.</p>
 </div>
 <br>
 <div align="center">
