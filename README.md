@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Approximately every seven minutes of every day, someone in an aerobics class pulls their hamstring.</p>
+<p id="fact">Koala is Aboriginal for "no drink".</p>
 </div>
 <br>
 <div align="center">
