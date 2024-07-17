@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">In 1980, a Las Vegas hospital suspended workers for betting on when patients would die.</p>
+<p id="fact">Poland is the "stolen car capital of the world".</p>
 </div>
 <br>
 <div align="center">
