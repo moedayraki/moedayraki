@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Poland is the "stolen car capital of the world".</p>
+<p id="fact">A pregnant goldfish is called a twit.</p>
 </div>
 <br>
 <div align="center">
