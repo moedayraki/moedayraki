@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">There are more than 10 million bricks in the Empire State Building!</p>
+<p id="fact">Average number of people airborne over the US any given hour: 61,000.</p>
 </div>
 <br>
 <div align="center">
