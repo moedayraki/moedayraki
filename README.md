@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The first contraceptive was crocodile dung used by the ancient Egyptians.</p>
+<p id="fact">If you went out into space, you would explode before you suffocated because there`s no air pressure.</p>
 </div>
 <br>
 <div align="center">
