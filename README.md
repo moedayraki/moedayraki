@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">If you went out into space, you would explode before you suffocated because there`s no air pressure.</p>
+<p id="fact">5,840 people with pillow related injuries checked into U.S. emergency rooms in 1992.</p>
 </div>
 <br>
 <div align="center">
