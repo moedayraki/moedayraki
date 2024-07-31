@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Women manage the money and pay the bills in  75% of all Americans households.</p>
+<p id="fact">Most lipstick contains fish scales!</p>
 </div>
 <br>
 <div align="center">
