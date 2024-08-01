@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Most lipstick contains fish scales!</p>
+<p id="fact">"Underground" is the only word in the English language that begins and ends with the letters "und"</p>
 </div>
 <br>
 <div align="center">
