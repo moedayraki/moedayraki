@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">"Underground" is the only word in the English language that begins and ends with the letters "und"</p>
+<p id="fact">Nearly 80% of all animals on earth have six legs.</p>
 </div>
 <br>
 <div align="center">
