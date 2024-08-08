@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">There are 1 million ants for every human in the world.</p>
+<p id="fact">The katydid bug hears through holes in its hind legs!</p>
 </div>
 <br>
 <div align="center">
