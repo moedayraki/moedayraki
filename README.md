@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Napoleon`s penis was sold to an American Urologist for $40,000.</p>
+<p id="fact">Walt Disney holds the world record for the most Academy Awards won by one person, he has won twenty statuettes, and twelve other plaques and certificates</p>
 </div>
 <br>
 <div align="center">
