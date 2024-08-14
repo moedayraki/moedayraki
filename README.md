@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Walt Disney holds the world record for the most Academy Awards won by one person, he has won twenty statuettes, and twelve other plaques and certificates</p>
+<p id="fact">A literal translation of a standard traffic sign in China: "Give large space to the festive dog that makes sport in the roadway."</p>
 </div>
 <br>
 <div align="center">
