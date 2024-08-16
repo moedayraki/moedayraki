@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Tehran is the most expensive city on earth.</p>
+<p id="fact">Telly Savalas and Louis Armstrong died on their birthdays.  </p>
 </div>
 <br>
 <div align="center">
