@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Camels have three eyelids to protect themselves from blowing sand!</p>
+<p id="fact">It has been estimated that humans use only 10% of their brain.</p>
 </div>
 <br>
 <div align="center">
