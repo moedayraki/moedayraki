@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">When possums are playing `possum`, they are not "playing." They actually pass out from sheer terror.</p>
+<p id="fact">Lorne Greene had one of his nipples bitten off by an alligator while he was host of "Lorne Greene`s Wild Kingdom."</p>
 </div>
 <br>
 <div align="center">
