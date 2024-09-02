@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Cranberries are sorted for ripeness by bouncing them; a fully ripened cranberry can be dribbled like a basketball.  </p>
+<p id="fact">If we had the same mortality rate now as in 1900, more than half the people in the world today would not be alive.</p>
 </div>
 <br>
 <div align="center">
