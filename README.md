@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Honey is the only food which does not spoil.</p>
+<p id="fact">Oak trees do not produce acorns until they are fifty years of age or older.</p>
 </div>
 <br>
 <div align="center">
