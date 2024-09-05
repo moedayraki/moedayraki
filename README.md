@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Oak trees do not produce acorns until they are fifty years of age or older.</p>
+<p id="fact">All 50 states are listed across the top of the Lincoln Memorial on the back of the $5 bill.</p>
 </div>
 <br>
 <div align="center">
