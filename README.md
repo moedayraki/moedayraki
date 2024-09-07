@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The buzz from an electric razor in America plays in the key of B flat; Key of G in England.</p>
+<p id="fact">It takes 3,000 cows to supply the NFL with enough leather for a year`s supply of footballs.</p>
 </div>
 <br>
 <div align="center">
