@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">It takes 3,000 cows to supply the NFL with enough leather for a year`s supply of footballs.</p>
+<p id="fact">A bull can inseminate 300 cows from one single ejaculation.</p>
 </div>
 <br>
 <div align="center">
