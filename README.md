@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">A bull can inseminate 300 cows from one single ejaculation.</p>
+<p id="fact">A piece of paper can be folded no more then 9 times.</p>
 </div>
 <br>
 <div align="center">
