@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">A piece of paper can be folded no more then 9 times.</p>
+<p id="fact">It has been estimated that humans use only 10% of their brain.</p>
 </div>
 <br>
 <div align="center">
