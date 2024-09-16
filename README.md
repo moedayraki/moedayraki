@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">In the White House, there are 13,092 knives, forks and spoons!</p>
+<p id="fact">Pinocchio is Italian for "pine head."</p>
 </div>
 <br>
 <div align="center">
