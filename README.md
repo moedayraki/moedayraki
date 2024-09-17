@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Pinocchio is Italian for "pine head."</p>
+<p id="fact">The word "set" has more definitions than any other word in the English language.</p>
 </div>
 <br>
 <div align="center">
