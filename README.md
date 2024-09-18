@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The word "set" has more definitions than any other word in the English language.</p>
+<p id="fact">The most common street name in the U.S. is Second Street.</p>
 </div>
 <br>
 <div align="center">
