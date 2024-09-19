@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The most common street name in the U.S. is Second Street.</p>
+<p id="fact">Thirty-five percent of people who use personal ads for dating are already married.</p>
 </div>
 <br>
 <div align="center">
