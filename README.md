@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">If the population of China walked past you in single file, the line would never end because of the rate of reproduction.</p>
+<p id="fact">The citrus soda 7-UP was created in 1929; `7` was selected after the original 7-ounce containers and `UP` for the direction of the bubbles.</p>
 </div>
 <br>
 <div align="center">
