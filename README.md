@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Some lions mate over 50 times a day.</p>
+<p id="fact">All polar bears are left-handed.</p>
 </div>
 <br>
 <div align="center">
