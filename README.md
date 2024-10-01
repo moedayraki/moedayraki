@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Most collect calls are made on father`s day.</p>
+<p id="fact">During a severe windstorm or rainstorm the Empire State Building sways several feet to either side.</p>
 </div>
 <br>
 <div align="center">
