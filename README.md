@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">A whale`s penis is called a dork.</p>
+<p id="fact">Simplistic passwords contribute to over 80% of all computer password break-ins.</p>
 </div>
 <br>
 <div align="center">
