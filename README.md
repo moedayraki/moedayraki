@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Daffy Duck`s middle name is "Dumas"</p>
+<p id="fact">The national anthem of Greece has 158 verses. No one in Greece has memorized all 158 verses.  </p>
 </div>
 <br>
 <div align="center">
