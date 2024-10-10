@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Mike Nesmith`s (the guitarist of The Monkeys) mom invented White Out.</p>
+<p id="fact">More Monopoly money is printed in a year, than real money throughout the world.</p>
 </div>
 <br>
 <div align="center">
