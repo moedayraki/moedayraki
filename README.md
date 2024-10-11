@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">More Monopoly money is printed in a year, than real money throughout the world.</p>
+<p id="fact">Over 60% of all those who marry get divorced.</p>
 </div>
 <br>
 <div align="center">
