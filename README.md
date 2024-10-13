@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The 57 on Heinz ketchup bottles represents the number of varieties of pickles the company once had.</p>
+<p id="fact">The average person spends 12 weeks a year `looking for things`.</p>
 </div>
 <br>
 <div align="center">
