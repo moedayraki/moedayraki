@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">There are 336 dimples on a regulation golf ball.</p>
+<p id="fact">A crocodile cannot stick its tongue out.</p>
 </div>
 <br>
 <div align="center">
