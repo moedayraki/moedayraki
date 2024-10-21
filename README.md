@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The only 15-letter word that can be spelled without repeating a letter is uncopyrightable.</p>
+<p id="fact">The KGB is headquartered at No. 2 Felix Dzerzhinsky Square, Moscow</p>
 </div>
 <br>
 <div align="center">
