@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Every acre of American crops harvested contains 100 pounds of insects.</p>
+<p id="fact">Count the number of cricket chirps in a 15-second period, add 37 to the total, and your result will be very close to the actual outdoor Fahrenheit temperature.</p>
 </div>
 <br>
 <div align="center">
