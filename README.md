@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">A bull can inseminate 300 cows from one single ejaculation.</p>
+<p id="fact">Alfred Hitchcock didn`t have a belly button. It was eliminated when he was sewn up after surgery.</p>
 </div>
 <br>
 <div align="center">
