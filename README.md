@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Months that begin on a Sunday will always have a `Friday the 13th`.</p>
+<p id="fact">The word "set" has more definitions than any other word in the English language.</p>
 </div>
 <br>
 <div align="center">
