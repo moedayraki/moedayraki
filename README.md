@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">1 in every 4 Americans has appeared someway or another on television.</p>
+<p id="fact">Some lions mate over 50 times a day.</p>
 </div>
 <br>
 <div align="center">
