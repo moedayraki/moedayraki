@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The KGB is headquartered at No. 2 Felix Dzerzhinsky Square, Moscow</p>
+<p id="fact">The longest place-name still in use is: Taumatawhakatangihangakoauauotamateaturipukakapikimaungahoronukupokaiakitnatahu, a New Zealand hill.  </p>
 </div>
 <br>
 <div align="center">
