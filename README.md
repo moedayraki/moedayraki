@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">In the last 3,500 years, there have been approximately 230 years of peace throughout the civilized world.</p>
+<p id="fact">Women manage the money and pay the bills in  75% of all Americans households.</p>
 </div>
 <br>
 <div align="center">
