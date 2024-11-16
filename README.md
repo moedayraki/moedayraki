@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">A signature is called a John Hancock because he signed the Declaration of Independence. Only 2 people signed the declaration of independence on July 4. The Last person signed 2 years later.</p>
+<p id="fact">Hershey`s Kisses are called that because the machine that makes them looks like it`s kissing the conveyor belt.</p>
 </div>
 <br>
 <div align="center">
