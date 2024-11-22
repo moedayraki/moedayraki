@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The name for Oz in the "Wizard of Oz" was thought up when the creator, Frank Baum, looked at his filing cabinet and saw A-N, and O-Z; hence the name "OZ."</p>
+<p id="fact">Ninety percent of all species that have become extinct have been birds.</p>
 </div>
 <br>
 <div align="center">
