@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">A dime has 118 ridges around the edge.</p>
+<p id="fact">Mike Nesmith`s (the guitarist of The Monkeys) mom invented White Out.</p>
 </div>
 <br>
 <div align="center">
