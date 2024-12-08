@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">No word in the English language rhymes with month, orange, silver and purple.</p>
+<p id="fact">A dime has 118 ridges around the edge.</p>
 </div>
 <br>
 <div align="center">
