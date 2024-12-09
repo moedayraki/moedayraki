@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">A dime has 118 ridges around the edge.</p>
+<p id="fact">The giant squid has the largest eyes in the world.</p>
 </div>
 <br>
 <div align="center">
