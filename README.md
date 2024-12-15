@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The the U.S. you dial `911`. In Stockholm, Sweden you dial 90000</p>
+<p id="fact">Walt Disney holds the world record for the most Academy Awards won by one person, he has won twenty statuettes, and twelve other plaques and certificates</p>
 </div>
 <br>
 <div align="center">
