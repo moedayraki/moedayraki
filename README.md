@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The serial number of the first MAC ever produced was 2001.</p>
+<p id="fact">1 in 8 Americans has worked at a McDonalds restaurant.</p>
 </div>
 <br>
 <div align="center">
