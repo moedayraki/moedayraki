@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">A snail can sleep for three years.</p>
+<p id="fact">Americans travel 1,144,721,000 miles by air every day</p>
 </div>
 <br>
 <div align="center">
