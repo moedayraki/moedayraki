@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">A standard slinky measures 87 feet when stretched out.</p>
+<p id="fact">Women manage the money and pay the bills in  75% of all Americans households.</p>
 </div>
 <br>
 <div align="center">
