@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Women manage the money and pay the bills in  75% of all Americans households.</p>
+<p id="fact">Mosquito repellents don`t repel. They hide you. The spray blocks the mosquito`s sensors so they don`t know you`re there.</p>
 </div>
 <br>
 <div align="center">
