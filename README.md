@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Mosquito repellents don`t repel. They hide you. The spray blocks the mosquito`s sensors so they don`t know you`re there.</p>
+<p id="fact">Between 2 and 3 jockeys are killed each year in horse racing.</p>
 </div>
 <br>
 <div align="center">
