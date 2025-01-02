@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The following sentence: `A rough-coated, dough-faced, thoughtful ploughman strode through the streets of Scarborough; after falling into a slough, he coughed and hiccoughed.` Contains the nine different pronunciations of "ough" in the English Language.</p>
+<p id="fact">Emus and kangaroos cannot walk backwards, and are on the Australian coat of arms for that reason.</p>
 </div>
 <br>
 <div align="center">
