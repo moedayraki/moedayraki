@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Emus and kangaroos cannot walk backwards, and are on the Australian coat of arms for that reason.</p>
+<p id="fact">If one spells out numbers, they would have to count to One Thousand before coming across the letter "A".</p>
 </div>
 <br>
 <div align="center">
