@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The first song played on Armed Forces Radio during operation Desert Shield was "Rock the Casba" by the Clash.</p>
+<p id="fact">Prince Charles is an avid collecter of toilet seats.</p>
 </div>
 <br>
 <div align="center">
