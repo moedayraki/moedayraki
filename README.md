@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Prince Charles is an avid collecter of toilet seats.</p>
+<p id="fact">The verb "cleave" is the only English word with two synonyms which are antonyms of each other: adhere and separate.</p>
 </div>
 <br>
 <div align="center">
