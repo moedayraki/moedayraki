@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Simplistic passwords contribute to over 80% of all computer password break-ins.</p>
+<p id="fact">This common everyday occurrence composed of 59% nitrogen, 21% hydrogen, and 9% dioxide is called a `fart`.</p>
 </div>
 <br>
 <div align="center">
