@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Koala is Aboriginal for "no drink".</p>
+<p id="fact">If one places a tiny amount of liquor on a scorpion, it will instantly go mad and sting itself to death.</p>
 </div>
 <br>
 <div align="center">
