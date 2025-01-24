@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The sperm of a mouse is actually longer than the sperm of an elephant.</p>
+<p id="fact">The average person falls asleep in seven minutes.</p>
 </div>
 <br>
 <div align="center">
