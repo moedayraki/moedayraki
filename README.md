@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">2,000 pounds of space dust and other space debris fall on the Earth every day.</p>
+<p id="fact">The only two days of the year in which there are no professional sports games--MLB, NBA, NHL, or NFL--are the day before and the day after the Major League All-Star Game.</p>
 </div>
 <br>
 <div align="center">
