@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Alfred Hitchcock didn`t have a belly button. It was eliminated when he was sewn up after surgery.</p>
+<p id="fact">Caesar salad has nothing to do with any of the Caesars. It was first concocted in a bar in Tijuana, Mexico, in the 1920`s.</p>
 </div>
 <br>
 <div align="center">
