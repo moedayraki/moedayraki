@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">In the United States, a pound of potato chips costs two hundred times more than a pound of potatoes.</p>
+<p id="fact">The world`s record for keeping a Lifesaver in the mouth with the hole intact is 7 hrs 10 min.</p>
 </div>
 <br>
 <div align="center">
