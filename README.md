@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Men can read smaller print than women; women can hear better.</p>
+<p id="fact">Most collect calls are made on father`s day.</p>
 </div>
 <br>
 <div align="center">
