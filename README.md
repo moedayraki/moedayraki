@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">5,840 people with pillow related injuries checked into U.S. emergency rooms in 1992.</p>
+<p id="fact">The average person spends about two years on the phone in a lifetime.</p>
 </div>
 <br>
 <div align="center">
