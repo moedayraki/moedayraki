@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The Earth experiences 50,000 Earth quakes per year and is hit by Lightning 100 times a second.</p>
+<p id="fact">The HyperMart outside of Garland Texas has 58 check-outs.</p>
 </div>
 <br>
 <div align="center">
