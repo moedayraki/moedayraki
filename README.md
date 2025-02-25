@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The HyperMart outside of Garland Texas has 58 check-outs.</p>
+<p id="fact">All of the clocks in the movie "Pulp Fiction" are stuck on 4:20, a national pot-smokers hour.</p>
 </div>
 <br>
 <div align="center">
