@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">All of the clocks in the movie "Pulp Fiction" are stuck on 4:20, a national pot-smokers hour.</p>
+<p id="fact">Oak trees do not produce acorns until they are fifty years of age or older.</p>
 </div>
 <br>
 <div align="center">
