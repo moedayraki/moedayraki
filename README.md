@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Oak trees do not produce acorns until they are fifty years of age or older.</p>
+<p id="fact">The word "set" has more definitions than any other word in the English language.</p>
 </div>
 <br>
 <div align="center">
