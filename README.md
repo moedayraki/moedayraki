@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The average person will accidentally eat just under a pound of insects every year.</p>
+<p id="fact">The serial number of the first MAC ever produced was 2001.</p>
 </div>
 <br>
 <div align="center">
