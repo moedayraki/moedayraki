@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Most American car horns honk in the key of F.</p>
+<p id="fact">The ant always falls over on its right side when intoxicated.</p>
 </div>
 <br>
 <div align="center">
