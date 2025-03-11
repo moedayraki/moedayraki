@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The S in Harry S. Truman did not stand for anything.</p>
+<p id="fact">Tigers not only have striped fur, they have striped skin!</p>
 </div>
 <br>
 <div align="center">
