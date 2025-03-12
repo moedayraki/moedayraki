@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Tigers not only have striped fur, they have striped skin!</p>
+<p id="fact">The top 3 health-related searches on the Internet are (in this order): Depression, Allergies, & Cancer.</p>
 </div>
 <br>
 <div align="center">
