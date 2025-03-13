@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The top 3 health-related searches on the Internet are (in this order): Depression, Allergies, & Cancer.</p>
+<p id="fact">In Vermont, the ratio of cows to people is 10:1</p>
 </div>
 <br>
 <div align="center">
