@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">In Vermont, the ratio of cows to people is 10:1</p>
+<p id="fact">Los Angeles` full name `El Pueblo de Nuestra Senora la Reina de Los Angeles de Porciuncula` is reduced to 3.63% of its size in the abbreviation `L.A.`.</p>
 </div>
 <br>
 <div align="center">
