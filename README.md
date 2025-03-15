@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Los Angeles` full name `El Pueblo de Nuestra Senora la Reina de Los Angeles de Porciuncula` is reduced to 3.63% of its size in the abbreviation `L.A.`.</p>
+<p id="fact">There are 1,575 steps from the ground floor to the top of the Empire State building.</p>
 </div>
 <br>
 <div align="center">
