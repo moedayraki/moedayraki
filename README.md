@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">There are 1,575 steps from the ground floor to the top of the Empire State building.</p>
+<p id="fact">February 1865 is the only month in recorded history not to have a full moon.</p>
 </div>
 <br>
 <div align="center">
