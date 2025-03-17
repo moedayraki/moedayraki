@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">February 1865 is the only month in recorded history not to have a full moon.</p>
+<p id="fact">A duck`s quack doesn`t echo, and no one knows why.</p>
 </div>
 <br>
 <div align="center">
