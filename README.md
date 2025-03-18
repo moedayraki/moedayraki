@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">A duck`s quack doesn`t echo, and no one knows why.</p>
+<p id="fact">The Earth experiences 50,000 Earth quakes per year and is hit by Lightning 100 times a second.</p>
 </div>
 <br>
 <div align="center">
