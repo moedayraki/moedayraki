@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">It is illegal to eat oranges while bathing in California.</p>
+<p id="fact">The very first bomb dropped by the Allies on Berlin during World War II Killed the only elephant in the Berlin Zoo.</p>
 </div>
 <br>
 <div align="center">
