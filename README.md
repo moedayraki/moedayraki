@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The very first bomb dropped by the Allies on Berlin during World War II Killed the only elephant in the Berlin Zoo.</p>
+<p id="fact">If you have three quarters, four dimes, and four pennies, you have $1.19, the largest amount of money in coins without being able to make change for a dollar.</p>
 </div>
 <br>
 <div align="center">
