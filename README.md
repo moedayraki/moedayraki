@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">If the population of China walked past you in single file, the line would never end because of the rate of reproduction.</p>
+<p id="fact">The KGB is headquartered at No. 2 Felix Dzerzhinsky Square, Moscow</p>
 </div>
 <br>
 <div align="center">
