@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The Ramses brand condom is named after the great pharoh Ramses II who fathered over 160 children.</p>
+<p id="fact">The sperm of a mouse is actually longer than the sperm of an elephant.</p>
 </div>
 <br>
 <div align="center">
