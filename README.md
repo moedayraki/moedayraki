@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The shape of plant collenchyma’s cells and the shape of the bubbles in beer foam are the same - they are orthotetrachidecahedrons.</p>
+<p id="fact">2,000 pounds of space dust and other space debris fall on the Earth every day.</p>
 </div>
 <br>
 <div align="center">
