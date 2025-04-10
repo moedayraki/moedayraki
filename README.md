@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Canada makes up 6.67 percent of the Earth`s land area</p>
+<p id="fact">The longest recorded flight of a chicken is thirteen seconds.</p>
 </div>
 <br>
 <div align="center">
