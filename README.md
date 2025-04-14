@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Lawn darts are illegal in Canada.</p>
+<p id="fact">Blueberry Jelly Bellies were created especially for Ronald Reagan.</p>
 </div>
 <br>
 <div align="center">
