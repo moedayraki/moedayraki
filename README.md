@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Blueberry Jelly Bellies were created especially for Ronald Reagan.</p>
+<p id="fact">Ten percent of the Russian government`s income comes from the sale of vodka.</p>
 </div>
 <br>
 <div align="center">
