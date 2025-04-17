@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Your stomach has to produce a new layer of mucus every 2 weeks otherwise it will digest itself.</p>
+<p id="fact">Poland is the "stolen car capital of the world".</p>
 </div>
 <br>
 <div align="center">
