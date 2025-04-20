@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Mel Blanc (the voice of Bugs Bunny) was allergic to carrots.</p>
+<p id="fact">The muzzle of a lion is like a fingerprint - no two lions have the same pattern of whiskers.  </p>
 </div>
 <br>
 <div align="center">
