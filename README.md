@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The muzzle of a lion is like a fingerprint - no two lions have the same pattern of whiskers.  </p>
+<p id="fact">Al Capone`s business card said he was a used furniture dealer.</p>
 </div>
 <br>
 <div align="center">
