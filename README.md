@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Leonardo da Vinci could write with one hand while drawing with the other</p>
+<p id="fact">You can`t kill yourself by holding your breath.  </p>
 </div>
 <br>
 <div align="center">
