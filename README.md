@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">You can`t kill yourself by holding your breath.  </p>
+<p id="fact">Napoleon`s penis was sold to an American Urologist for $40,000.</p>
 </div>
 <br>
 <div align="center">
