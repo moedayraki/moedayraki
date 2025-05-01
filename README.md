@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Celery has negative calories! It takes more calories to eat a piece of celery than the celery has in it.</p>
+<p id="fact">All of the clocks in the movie "Pulp Fiction" are stuck on 4:20, a national pot-smokers hour.</p>
 </div>
 <br>
 <div align="center">
