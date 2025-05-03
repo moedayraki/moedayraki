@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">PEZ candy even comes in a Coffee flavor.</p>
+<p id="fact">The Main Library at Indiana University sinks over an inch every year because when it was built, engineers failed to take into account the weight of all the books that would occupy the building.</p>
 </div>
 <br>
 <div align="center">
