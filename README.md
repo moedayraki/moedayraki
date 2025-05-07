@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">10,000 Dutch cows pass through the Amsterdam airport each year.</p>
+<p id="fact">The value of Pi will be officially "rounded down" to 3.14 from 3.14159265359 on December 31, 1999.</p>
 </div>
 <br>
 <div align="center">
