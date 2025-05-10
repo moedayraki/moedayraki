@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">If done perfectly, a rubix cube combination can be solved in 17 turns.</p>
+<p id="fact">Every year 11,000 Americans injure themselves while trying out bizarre sexual positions.</p>
 </div>
 <br>
 <div align="center">
