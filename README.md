@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Two-thirds of the world`s eggplant is grown in New Jersey.  </p>
+<p id="fact">In a test performed by Canadian scientists, using various different styles of music, it was determined that chickens lay the most eggs when pop music was played.</p>
 </div>
 <br>
 <div align="center">
