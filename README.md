@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Spain leads the world in cork production</p>
+<p id="fact">In the last 4000 years, no new animals have been domesticated.</p>
 </div>
 <br>
 <div align="center">
