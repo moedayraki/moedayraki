@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Right-handed people live, on average; nine years longer than left handed people.</p>
+<p id="fact">Sex burns 360 calories per hour.</p>
 </div>
 <br>
 <div align="center">
