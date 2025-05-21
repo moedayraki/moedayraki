@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Sex burns 360 calories per hour.</p>
+<p id="fact">There are more than 10 million bricks in the Empire State Building!</p>
 </div>
 <br>
 <div align="center">
