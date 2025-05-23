@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The three most recognized Western names in China are Jesus Christ, Richard Nixon, & Elvis Presley.</p>
+<p id="fact">Bullet proof vests, fire escapes, windshield wipers, and laser printers were all invented by women</p>
 </div>
 <br>
 <div align="center">
