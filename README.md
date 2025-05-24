@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Bullet proof vests, fire escapes, windshield wipers, and laser printers were all invented by women</p>
+<p id="fact">Steely Dan got their name from a sexual device depicted in the book `The Naked Lunch`.  </p>
 </div>
 <br>
 <div align="center">
