@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">3.9% of all women do not wear underwear.</p>
+<p id="fact">There are 1,792 steps in the Eiffel Tower</p>
 </div>
 <br>
 <div align="center">
