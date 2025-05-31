@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Maine is the only state whose name is just one syllable.</p>
+<p id="fact">166,875,000,000 pieces of mail are delivered each year in the US</p>
 </div>
 <br>
 <div align="center">
