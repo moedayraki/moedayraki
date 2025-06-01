@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">166,875,000,000 pieces of mail are delivered each year in the US</p>
+<p id="fact">The average North American will eat 35,000 cookies during their life span.</p>
 </div>
 <br>
 <div align="center">
