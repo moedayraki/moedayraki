@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Daffy Duck`s middle name is "Dumas"</p>
+<p id="fact">It is illegal to hunt camels in the state of Arizona.</p>
 </div>
 <br>
 <div align="center">
