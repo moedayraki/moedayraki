@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Prince Charles is an avid collecter of toilet seats.</p>
+<p id="fact">A bull can inseminate 300 cows from one single ejaculation.</p>
 </div>
 <br>
 <div align="center">
