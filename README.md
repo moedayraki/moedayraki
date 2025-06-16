@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">American Airlines saved $40,000 in 1987 by eliminating one olive from each salad served in first-class.</p>
+<p id="fact">Daylight Saving Time is not observed in most of the state of Arizona and parts of Indiana.</p>
 </div>
 <br>
 <div align="center">
