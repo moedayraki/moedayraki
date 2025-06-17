@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Daylight Saving Time is not observed in most of the state of Arizona and parts of Indiana.</p>
+<p id="fact">You were born with 300 bones, but by the time you are an adult you will only have 206.</p>
 </div>
 <br>
 <div align="center">
