@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The letters KGB stand for Komitet Gosudarstvennoy Bezopasnosti.  </p>
+<p id="fact">In a lifetime the average human produces enough quarts of spit to fill 2 swimming pools.</p>
 </div>
 <br>
 <div align="center">
