@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The Eisenhower interstate system requires that one mile in every five must be straight in case of war or emergency, they could be used as airstrips.</p>
+<p id="fact">The Black Widow spider eats her mate during or after sex.</p>
 </div>
 <br>
 <div align="center">
