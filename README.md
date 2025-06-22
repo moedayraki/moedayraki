@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The Black Widow spider eats her mate during or after sex.</p>
+<p id="fact">Annual growth of WWW traffic is 314,000%</p>
 </div>
 <br>
 <div align="center">
