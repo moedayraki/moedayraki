@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Annual growth of WWW traffic is 314,000%</p>
+<p id="fact">A jellyfish is 95 percent water!</p>
 </div>
 <br>
 <div align="center">
