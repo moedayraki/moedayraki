@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">There is a town in Newfoundland, Canada called Dildo.</p>
+<p id="fact">Most lipstick contains fish scales!</p>
 </div>
 <br>
 <div align="center">
