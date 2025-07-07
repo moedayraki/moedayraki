@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The 57 on Heinz ketchup bottles represents the number of varieties of pickles the company once had.</p>
+<p id="fact">In Disney`s Fantasia, the Sorcerer`s name is "Yensid" (Disney backwards.)</p>
 </div>
 <br>
 <div align="center">
