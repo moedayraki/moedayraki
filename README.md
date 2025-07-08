@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">In Disney`s Fantasia, the Sorcerer`s name is "Yensid" (Disney backwards.)</p>
+<p id="fact"> was Harrison Ford`s idea so that he could take a bathroom break.</p>
 </div>
 <br>
 <div align="center">
