@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The name Jeep came from the abbreviation used in the army. G.P. for `General Purpose` vehicle.</p>
+<p id="fact">The Eisenhower interstate system requires that one mile in every five must be straight in case of war or emergency, they could be used as airstrips.</p>
 </div>
 <br>
 <div align="center">
