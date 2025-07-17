@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The Eisenhower interstate system requires that one mile in every five must be straight in case of war or emergency, they could be used as airstrips.</p>
+<p id="fact">Caesar salad has nothing to do with any of the Caesars. It was first concocted in a bar in Tijuana, Mexico, in the 1920`s.</p>
 </div>
 <br>
 <div align="center">
