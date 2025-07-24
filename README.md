@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Babies are most likely to be born on Tuesdays.</p>
+<p id="fact">Donald Duck comics were banned from Finland because he doesn`t wear pants!</p>
 </div>
 <br>
 <div align="center">
