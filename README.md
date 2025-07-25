@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Donald Duck comics were banned from Finland because he doesn`t wear pants!</p>
+<p id="fact">The name Wendy was made up for the book "Peter Pan."</p>
 </div>
 <br>
 <div align="center">
