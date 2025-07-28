@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">166,875,000,000 pieces of mail are delivered each year in the US</p>
+<p id="fact">Crocodiles and alligators are surprisingly fast on land.  Although they are rapid, they are not agile.  So, if being chased by one, run in a zigzag line to lose him or her.</p>
 </div>
 <br>
 <div align="center">
