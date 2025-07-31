@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The only nation whose name begins with an "A", but doesn`t end in an "A" is Afghanistan.</p>
+<p id="fact">In the average lifetime, a person will walk the equivalent of 5 times around the equator.</p>
 </div>
 <br>
 <div align="center">
