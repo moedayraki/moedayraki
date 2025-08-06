@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">There are 1,792 steps in the Eiffel Tower</p>
+<p id="fact">In England, the Speaker of the House is not allowed to speak.</p>
 </div>
 <br>
 <div align="center">
