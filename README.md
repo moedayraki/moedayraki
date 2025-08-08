@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The king of hearts is the only king without a mustache.</p>
+<p id="fact">The sweat drops drawn in cartoon comic strips are called pleuts.</p>
 </div>
 <br>
 <div align="center">
