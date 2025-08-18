@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">To escape the grip of a crocodile`s jaws, push your thumbs into its eyeballs - it will let you go instantly.</p>
+<p id="fact">Chewing gum while peeling onions will keep you from crying.</p>
 </div>
 <br>
 <div align="center">
