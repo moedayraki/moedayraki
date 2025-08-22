@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">A duck`s quack doesn`t echo, and no one knows why.</p>
+<p id="fact">Dentists have recommended that a toothbrush be kept at least 6 feet away from a toilet to avoid airborne particles resulting from the flush.</p>
 </div>
 <br>
 <div align="center">
