@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Dentists have recommended that a toothbrush be kept at least 6 feet away from a toilet to avoid airborne particles resulting from the flush.</p>
+<p id="fact">A snail can sleep for three years.</p>
 </div>
 <br>
 <div align="center">
