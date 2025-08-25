@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">In the United States, a pound of potato chips costs two hundred times more than a pound of potatoes.</p>
+<p id="fact">The `Golden Arches` of fast food chain McDonalds is more recognized worldwide than the religious cross of Christianity.</p>
 </div>
 <br>
 <div align="center">
