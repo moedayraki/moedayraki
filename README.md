@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The average American/Canadian will eat about 11.9 pounds of cereal per year!</p>
+<p id="fact">Valentine Tapley from Pike County, Missouri  grew chin whiskers attaining a length of twelve feet six inches from 1860 until his death 1910, protesting Abraham Lincoln`s election to the presidency.</p>
 </div>
 <br>
 <div align="center">
