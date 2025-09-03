@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">All 50 states are listed across the top of the Lincoln Memorial on the back of the $5 bill.</p>
+<p id="fact">Crocodiles and alligators are surprisingly fast on land.  Although they are rapid, they are not agile.  So, if being chased by one, run in a zigzag line to lose him or her.</p>
 </div>
 <br>
 <div align="center">
