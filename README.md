@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The Black Death reduced the population of Europe by one third in the period from 1347 to 1351.</p>
+<p id="fact">Hershey`s Kisses are called that because the machine that makes them looks like it`s kissing the conveyor belt.</p>
 </div>
 <br>
 <div align="center">
