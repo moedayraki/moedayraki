@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Hershey`s Kisses are called that because the machine that makes them looks like it`s kissing the conveyor belt.</p>
+<p id="fact">A spider has transparent blood.</p>
 </div>
 <br>
 <div align="center">
