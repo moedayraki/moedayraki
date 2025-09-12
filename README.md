@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">There are 293 ways to make change for a dollar.</p>
+<p id="fact">More people are killed annually by donkeys than airplane crashes.</p>
 </div>
 <br>
 <div align="center">
