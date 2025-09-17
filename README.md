@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">3.6 cans of Spam are consumed each second.</p>
+<p id="fact">A snail can sleep for three years.</p>
 </div>
 <br>
 <div align="center">
