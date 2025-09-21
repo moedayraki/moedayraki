@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">South Dakota is the only U.S state which shares no letters with the name of it`s capital</p>
+<p id="fact">The Black Widow spider eats her mate during or after sex.</p>
 </div>
 <br>
 <div align="center">
