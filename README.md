@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Kelsey Grammar sings and plays the piano for the theme song of Fraiser.</p>
+<p id="fact">In Iceland, a Big Mac costs $5.50.</p>
 </div>
 <br>
 <div align="center">
