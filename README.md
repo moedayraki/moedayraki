@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">In Iceland, a Big Mac costs $5.50.</p>
+<p id="fact">A chameleon's tongue is twice the length of its body.</p>
 </div>
 <br>
 <div align="center">
