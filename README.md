@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">A chameleon's tongue is twice the length of its body.</p>
+<p id="fact">The Human eyes never grow, but nose and ears never stop growing.</p>
 </div>
 <br>
 <div align="center">
