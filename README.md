@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The Human eyes never grow, but nose and ears never stop growing.</p>
+<p id="fact">Starfish haven`t got brains.</p>
 </div>
 <br>
 <div align="center">
