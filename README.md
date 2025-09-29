@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The king of hearts is the only king without a mustache.</p>
+<p id="fact">Telly Savalas and Louis Armstrong died on their birthdays.  </p>
 </div>
 <br>
 <div align="center">
