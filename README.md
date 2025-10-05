@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">A “2 by 4" is really 1 1/2 by 3 1/2.</p>
+<p id="fact">Conception occurs most in the month of December.</p>
 </div>
 <br>
 <div align="center">
