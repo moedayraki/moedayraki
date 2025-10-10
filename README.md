@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">A horse can look forward with one eye and back with the other.</p>
+<p id="fact">In the great fire of London in 1666 half of London was burnt down but only 6 people were injured.</p>
 </div>
 <br>
 <div align="center">
