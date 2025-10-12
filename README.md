@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">It takes about 142.18 licks to reach the center of a Tootsie pop.</p>
+<p id="fact">One in eight million people has progeria, a disease that causes people to grow faster than they age.</p>
 </div>
 <br>
 <div align="center">
