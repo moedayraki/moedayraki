@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">One in eight million people has progeria, a disease that causes people to grow faster than they age.</p>
+<p id="fact">Canada is the only country not to win a gold medal in the summer Olympic games while hosting.</p>
 </div>
 <br>
 <div align="center">
