@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Canada is the only country not to win a gold medal in the summer Olympic games while hosting.</p>
+<p id="fact">11% of the world is left-handed.</p>
 </div>
 <br>
 <div align="center">
