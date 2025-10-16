@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Einstein couldn`t speak fluently until after his ninth birthday. His parents thought he was mentally retarded.</p>
+<p id="fact">Columbia University is the second largest landowner in New York City, after the Catholic Church.</p>
 </div>
 <br>
 <div align="center">
