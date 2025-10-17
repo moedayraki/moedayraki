@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Columbia University is the second largest landowner in New York City, after the Catholic Church.</p>
+<p id="fact">The youngest pope ever was 11 years old.</p>
 </div>
 <br>
 <div align="center">
