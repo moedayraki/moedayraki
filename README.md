@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Dr. Seuss pronounced his name “soyce”.</p>
+<p id="fact">Mr. Rogers was an ordained Presbyterian minister.</p>
 </div>
 <br>
 <div align="center">
