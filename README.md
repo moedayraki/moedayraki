@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">On average, people fear spiders more than they do death.</p>
+<p id="fact">Ramses brand condom is named after the great pharaoh Ramses II who fathered over 160 children.</p>
 </div>
 <br>
 <div align="center">
