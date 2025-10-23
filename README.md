@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Ramses brand condom is named after the great pharaoh Ramses II who fathered over 160 children.</p>
+<p id="fact">Over 1000 birds a year die from smashing into windows!</p>
 </div>
 <br>
 <div align="center">
