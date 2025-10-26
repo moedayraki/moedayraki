@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">You are more likely to be killed by a champagne cork than by a poisonous spider.</p>
+<p id="fact">Donald Duck`s middle name is Fauntleroy.  </p>
 </div>
 <br>
 <div align="center">
