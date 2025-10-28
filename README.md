@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The only nation whose name begins with an "A", but doesn`t end in an "A" is Afghanistan.</p>
+<p id="fact">The February of 1865 is the only month in recorded history not to have a full moon.</p>
 </div>
 <br>
 <div align="center">
