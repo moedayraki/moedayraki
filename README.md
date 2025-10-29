@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The February of 1865 is the only month in recorded history not to have a full moon.</p>
+<p id="fact">When we think of Big Ben in London, we think of the clock. Actually, it's the bell.</p>
 </div>
 <br>
 <div align="center">
