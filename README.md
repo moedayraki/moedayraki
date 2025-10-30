@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">When we think of Big Ben in London, we think of the clock. Actually, it's the bell.</p>
+<p id="fact">In the early 1940s, the FCC assigned television`s Channel 1 to mobile services (like two-way radios in taxis) but did not re-number the other channel assignments.</p>
 </div>
 <br>
 <div align="center">
