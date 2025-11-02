@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The giant squid has the largest eyes in the world.</p>
+<p id="fact">The shortest British monarch was Charles I, who was 4 feet 9 inches.</p>
 </div>
 <br>
 <div align="center">
