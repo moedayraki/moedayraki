@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The shortest British monarch was Charles I, who was 4 feet 9 inches.</p>
+<p id="fact">The penguin is the only bird that can swim but can't fly.</p>
 </div>
 <br>
 <div align="center">
