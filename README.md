@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Leonardo Da Vinci invented the scissors.</p>
+<p id="fact">Netherlands is the only country with a national dog.</p>
 </div>
 <br>
 <div align="center">
