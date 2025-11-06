@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Netherlands is the only country with a national dog.</p>
+<p id="fact">There is actually no danger in swimming right after you eat, though it may feel uncomfortable.</p>
 </div>
 <br>
 <div align="center">
