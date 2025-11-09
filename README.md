@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The average human brain has about 100 billion nerve cells.</p>
+<p id="fact">There are 336 dimples on a regulation US golf ball. In the UK its 330.</p>
 </div>
 <br>
 <div align="center">
