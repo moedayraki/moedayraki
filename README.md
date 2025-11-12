@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Q is the only letter in the alphabet that does not appear in the name of any of the United States!</p>
+<p id="fact">The only real person to be a PEZ head was Betsy Ross.</p>
 </div>
 <br>
 <div align="center">
