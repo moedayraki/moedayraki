@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The only real person to be a PEZ head was Betsy Ross.</p>
+<p id="fact">Greece's national anthem has 158 verses.</p>
 </div>
 <br>
 <div align="center">
