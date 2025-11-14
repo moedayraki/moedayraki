@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Greece's national anthem has 158 verses.</p>
+<p id="fact">Right handed people live, on average, nine years longer than left handed people do.</p>
 </div>
 <br>
 <div align="center">
