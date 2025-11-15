@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Right handed people live, on average, nine years longer than left handed people do.</p>
+<p id="fact">California consumes more bottled water than any other product.</p>
 </div>
 <br>
 <div align="center">
