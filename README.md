@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">California consumes more bottled water than any other product.</p>
+<p id="fact">Your stomach has to produce a new layer of mucus every two weeks or it will digest itself.</p>
 </div>
 <br>
 <div align="center">
