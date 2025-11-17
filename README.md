@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Your stomach has to produce a new layer of mucus every two weeks or it will digest itself.</p>
+<p id="fact">About 55% of all movies are rated R.</p>
 </div>
 <br>
 <div align="center">
