@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">About 55% of all movies are rated R.</p>
+<p id="fact">The plastic things on the end of shoelaces are called aglets.</p>
 </div>
 <br>
 <div align="center">
