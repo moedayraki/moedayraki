@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The plastic things on the end of shoelaces are called aglets.</p>
+<p id="fact">Adolf Hitler was a vegetarian, and had only ONE testicle.</p>
 </div>
 <br>
 <div align="center">
