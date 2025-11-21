@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The first song played on Armed Forces Radio during operation Desert Shield was "Rock the Casba" by the Clash.</p>
+<p id="fact">Your stomach needs to produce a new layer of mucus every two weeks or it would digest itself.</p>
 </div>
 <br>
 <div align="center">
