@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Some lions mate over 50 times a day.</p>
+<p id="fact">Lizards can self-amputate their tails for protection. It grows back after a few months.</p>
 </div>
 <br>
 <div align="center">
