@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Lizards can self-amputate their tails for protection. It grows back after a few months.</p>
+<p id="fact">Al Capone’s business card said he was a used furniture dealer.</p>
 </div>
 <br>
 <div align="center">
