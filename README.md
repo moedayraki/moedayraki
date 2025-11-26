@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Spain leads the world in cork production</p>
+<p id="fact">The mask worn by Michael Myers in the original "Halloween" was actually a Captain Kirk mask painted white.</p>
 </div>
 <br>
 <div align="center">
