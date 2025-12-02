@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The only capital letter in the Roman alphabet with exactly one end point is P. </p>
+<p id="fact">Dolphins can look in different directions with each eye. They can sleep with one eye open.</p>
 </div>
 <br>
 <div align="center">
