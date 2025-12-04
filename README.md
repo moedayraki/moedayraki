@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Everyday, more money is printed for Monopoly sets than for the U.S. Treasury.</p>
+<p id="fact">The highest per capita Jell-O comsumption in the US is Des Moines.</p>
 </div>
 <br>
 <div align="center">
