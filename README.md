@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">You share your birthday with at least 9 million other people in the world.</p>
+<p id="fact">In space, astronauts are unable to cry, because there is no gravity and the tears won`t flow.</p>
 </div>
 <br>
 <div align="center">
