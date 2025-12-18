@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">100% of lottery winners do gain weight</p>
+<p id="fact">There are more than 40,000 characters in the Chinese script.</p>
 </div>
 <br>
 <div align="center">
