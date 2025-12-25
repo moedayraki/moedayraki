@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Switzerland is the only country with a square flag.</p>
+<p id="fact">You can be fined up to $1,000 for whistling on Sunday in Salt Lake City, Utah.</p>
 </div>
 <br>
 <div align="center">
