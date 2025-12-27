@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The world's youngest parents were 8 and 9 and lived in China in 1910.</p>
+<p id="fact">The human body is comprised of 80% water.</p>
 </div>
 <br>
 <div align="center">
