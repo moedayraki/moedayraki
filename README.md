@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The human body is comprised of 80% water.</p>
+<p id="fact">You can`t kill yourself by holding your breath.  </p>
 </div>
 <br>
 <div align="center">
