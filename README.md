@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The average chocolate bar has 8 insects’ legs melted into it.</p>
+<p id="fact">The average person spends about two years on the phone in a lifetime.</p>
 </div>
 <br>
 <div align="center">
