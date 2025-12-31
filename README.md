@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The average person spends about two years on the phone in a lifetime.</p>
+<p id="fact">If one spells out numbers, they would have to count to One Thousand before coming across the letter "A".</p>
 </div>
 <br>
 <div align="center">
