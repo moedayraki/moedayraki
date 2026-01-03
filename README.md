@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The crack of a whip is actually a tiny sonic boom, since the tip breaks the sound barrier.</p>
+<p id="fact">The only 15-letter word that can be spelled without repeating a letter is uncopyrightable.</p>
 </div>
 <br>
 <div align="center">
