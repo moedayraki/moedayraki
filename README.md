@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Almonds are a member of the peach family.</p>
+<p id="fact">The odds of being born male are about 51.2%, according to census.</p>
 </div>
 <br>
 <div align="center">
