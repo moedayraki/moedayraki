@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The crack of a whip is actually a tiny sonic boom, since the tip breaks the sound barrier.</p>
+<p id="fact">Al Capone’s business card said he was a used furniture dealer.</p>
 </div>
 <br>
 <div align="center">
