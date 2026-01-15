@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Half of all Americans live within 50 miles of their birthplace.</p>
+<p id="fact">Maine is the only state that has borders with only one other state.</p>
 </div>
 <br>
 <div align="center">
