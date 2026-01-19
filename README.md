@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The "pound" key on your keyboard (#) is called an octotroph. </p>
+<p id="fact">The original story from "Tales of 1001 Arabian Nights" begins, "Aladdin was a little Chinese boy." </p>
 </div>
 <br>
 <div align="center">
