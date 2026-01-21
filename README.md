@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Your stomach needs to produce a new layer of mucus every two weeks or it would digest itself.</p>
+<p id="fact">The longest place-name still in use is: Taumatawhakatangihangakoauauotamateaturipukakapikimaungahoronukupokaiakitnatahu, a New Zealand hill.  </p>
 </div>
 <br>
 <div align="center">
