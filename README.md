@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The longest place-name still in use is: Taumatawhakatangihangakoauauotamateaturipukakapikimaungahoronukupokaiakitnatahu, a New Zealand hill.  </p>
+<p id="fact">In 1386, a pig in France was executed by public hanging for the murder of a child</p>
 </div>
 <br>
 <div align="center">
