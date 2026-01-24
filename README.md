@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">In every episode of “Seinfeld” there is a Superman picture or reference somewhere.</p>
+<p id="fact">On a Canadian two-dollar bill, the American flag is flying over the Parliament Building.</p>
 </div>
 <br>
 <div align="center">
