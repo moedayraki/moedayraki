@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Average number of people airborne over the US any given hour: 61,000.</p>
+<p id="fact">Honey is the only food which does not spoil.</p>
 </div>
 <br>
 <div align="center">
