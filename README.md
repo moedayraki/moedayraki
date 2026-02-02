@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Honey is the only food which does not spoil.</p>
+<p id="fact">The highest per capita Jell-O comsumption in the US is Des Moines.</p>
 </div>
 <br>
 <div align="center">
