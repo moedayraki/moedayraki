@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The highest per capita Jell-O comsumption in the US is Des Moines.</p>
+<p id="fact">In Vermont, the ratio of cows to people is 10:1</p>
 </div>
 <br>
 <div align="center">
