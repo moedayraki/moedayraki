@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">In Vermont, the ratio of cows to people is 10:1</p>
+<p id="fact">The S in Harry S. Truman did not stand for anything.</p>
 </div>
 <br>
 <div align="center">
