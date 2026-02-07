@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Buckingham Palace in England has over six hundred rooms.</p>
+<p id="fact">38% of American men say they love their cars more than women</p>
 </div>
 <br>
 <div align="center">
