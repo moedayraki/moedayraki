@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">38% of American men say they love their cars more than women</p>
+<p id="fact">Camels have three eyelids to protect themselves from blowing sand!</p>
 </div>
 <br>
 <div align="center">
