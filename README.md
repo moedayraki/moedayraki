@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">James Bond`s car had three different license plates in Goldfinger</p>
+<p id="fact">Dolphins can look in different directions with each eye. They can sleep with one eye open.</p>
 </div>
 <br>
 <div align="center">
