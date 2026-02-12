@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Buckingham Palace has 602 rooms.</p>
+<p id="fact">1 in 5 of the world's doctors are Russian.</p>
 </div>
 <br>
 <div align="center">
