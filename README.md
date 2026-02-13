@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">1 in 5 of the world's doctors are Russian.</p>
+<p id="fact">The first female guest host of "Saturday Night Live" was Candace Bergen.</p>
 </div>
 <br>
 <div align="center">
