@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The longest one-syllable word in the English language is "screeched." </p>
+<p id="fact">There are more psychoanalysts per capita in Buenos Aires than any other place in the world.</p>
 </div>
 <br>
 <div align="center">
