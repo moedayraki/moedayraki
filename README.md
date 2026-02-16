@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">There are more psychoanalysts per capita in Buenos Aires than any other place in the world.</p>
+<p id="fact">American Airlines saved $40,000 in 1987 by taking out an olive from First Class salads.</p>
 </div>
 <br>
 <div align="center">
