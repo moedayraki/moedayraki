@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">American Airlines saved $40,000 in 1987 by taking out an olive from First Class salads.</p>
+<p id="fact">14% of all facts and statistics are made up and 27% of people know that fact.</p>
 </div>
 <br>
 <div align="center">
