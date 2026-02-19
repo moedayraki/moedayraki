@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">In 1386, a pig in France was executed by public hanging for the murder of a child</p>
+<p id="fact">Barbie`s full name is Barbara Millicent Roberts.</p>
 </div>
 <br>
 <div align="center">
