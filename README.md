@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">If you put a drop of liquor on a scorpion, it will instantly go mad and sting itself to death.</p>
+<p id="fact">There are 240 dots on an arcade Pac-Man game</p>
 </div>
 <br>
 <div align="center">
