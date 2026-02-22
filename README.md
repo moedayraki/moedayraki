@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">There are 240 dots on an arcade Pac-Man game</p>
+<p id="fact">Our eyes are always the same size from birth, but our nose and ears never stop growing.</p>
 </div>
 <br>
 <div align="center">
