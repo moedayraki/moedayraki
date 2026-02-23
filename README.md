@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Our eyes are always the same size from birth, but our nose and ears never stop growing.</p>
+<p id="fact">The airplane Buddy Holly died in was the "American Pie." (Thus the name of the Don McLean song.)</p>
 </div>
 <br>
 <div align="center">
