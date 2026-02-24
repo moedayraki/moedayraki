@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The airplane Buddy Holly died in was the "American Pie." (Thus the name of the Don McLean song.)</p>
+<p id="fact">"I" is the most spoken word in the English language</p>
 </div>
 <br>
 <div align="center">
