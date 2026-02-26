@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Isaac Asimov is the only author to have a book in every Dewey-decimal category.</p>
+<p id="fact">Jim Henson first coined the word “Muppet”. It is a combination of “marionette” and “puppet.”</p>
 </div>
 <br>
 <div align="center">
