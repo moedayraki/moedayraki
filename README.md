@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">In every episode of Seinfeld there is a Superman somewhere.</p>
+<p id="fact">Babies are most likely to be born on Tuesdays.</p>
 </div>
 <br>
 <div align="center">
