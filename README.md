@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Anne Boleyn, Queen Elizabeth I's mother, had six fingers on one hand.</p>
+<p id="fact">It's possible to lead a cow upstairs...but not downstairs.</p>
 </div>
 <br>
 <div align="center">
