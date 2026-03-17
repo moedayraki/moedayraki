@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">It's possible to lead a cow upstairs...but not downstairs.</p>
+<p id="fact">Owls are the only birds that can see the color blue.</p>
 </div>
 <br>
 <div align="center">
