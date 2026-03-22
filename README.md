@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">There was once an undersea post office in the Bahamas.</p>
+<p id="fact">A chameleon's tongue is twice the length of its body.</p>
 </div>
 <br>
 <div align="center">
