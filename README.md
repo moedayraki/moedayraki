@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The average woman consumes 6 lbs of lipstick in her lifetime.</p>
+<p id="fact">In Italy, 17 is considered an unlucky number. In Japan, 4 is considered an unlucky number.</p>
 </div>
 <br>
 <div align="center">
