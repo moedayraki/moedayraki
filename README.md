@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">In Italy, 17 is considered an unlucky number. In Japan, 4 is considered an unlucky number.</p>
+<p id="fact">Reindeer like to eat bananas.</p>
 </div>
 <br>
 <div align="center">
