@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Nearly 80% of all animals on earth have six legs.</p>
+<p id="fact">In 1984, a Canadian farmer began renting advertising space on his cows.</p>
 </div>
 <br>
 <div align="center">
