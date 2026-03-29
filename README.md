@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">In 1984, a Canadian farmer began renting advertising space on his cows.</p>
+<p id="fact">A dragonfly has a lifespan of 24 hours.</p>
 </div>
 <br>
 <div align="center">
