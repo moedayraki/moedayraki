@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">A dragonfly has a lifespan of 24 hours.</p>
+<p id="fact">Jamaica has the most churches per square mile than any other country in the world.</p>
 </div>
 <br>
 <div align="center">
