@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Jamaica has the most churches per square mile than any other country in the world.</p>
+<p id="fact">The thumbnail grows the slowest, the middle nail the fastest, nearly 4 times faster than toenails.</p>
 </div>
 <br>
 <div align="center">
