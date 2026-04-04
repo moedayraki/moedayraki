@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">A honeybee can fly at fifteen miles per hour.</p>
+<p id="fact">An average human scalp has 100,000 hairs.</p>
 </div>
 <br>
 <div align="center">
