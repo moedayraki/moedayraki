@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">An American urologist bought Napoleon’s penis for $40,000.</p>
+<p id="fact">There are 336 dimples on a regulation US golf ball. In the UK its 330.</p>
 </div>
 <br>
 <div align="center">
