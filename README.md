@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Every year 11,000 Americans injure themselves while trying out bizarre sexual positions.</p>
+<p id="fact">If you go blind in one eye you only lose about one fifth of your vision but all your sense of depth.</p>
 </div>
 <br>
 <div align="center">
