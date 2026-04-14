@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">"You" is the second most spoken English word</p>
+<p id="fact">Pepsi originally contained pepsin, thus the name. </p>
 </div>
 <br>
 <div align="center">
