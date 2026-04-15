@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Pepsi originally contained pepsin, thus the name. </p>
+<p id="fact">If Texas were a country, its GNP would be the fifth largest of any country in the world.</p>
 </div>
 <br>
 <div align="center">
