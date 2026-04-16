@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">If Texas were a country, its GNP would be the fifth largest of any country in the world.</p>
+<p id="fact">The cheetah is the only cat that can't retract its claws.</p>
 </div>
 <br>
 <div align="center">
