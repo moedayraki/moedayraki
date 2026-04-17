@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The cheetah is the only cat that can't retract its claws.</p>
+<p id="fact">California has issued 6 drivers licenses to people named "Jesus Christ."</p>
 </div>
 <br>
 <div align="center">
