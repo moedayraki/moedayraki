@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">California has issued 6 drivers licenses to people named "Jesus Christ."</p>
+<p id="fact">Bruce Lee was so fast that they had to slow the film down so you could see his moves.</p>
 </div>
 <br>
 <div align="center">
