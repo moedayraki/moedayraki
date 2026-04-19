@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Bruce Lee was so fast that they had to slow the film down so you could see his moves.</p>
+<p id="fact">The first toilet ever seen on television was on "Leave It to Beaver."</p>
 </div>
 <br>
 <div align="center">
