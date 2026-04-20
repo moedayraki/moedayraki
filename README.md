@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The first toilet ever seen on television was on "Leave It to Beaver."</p>
+<p id="fact">Elwood Edwards did the voice for the AOL sound files (i.e. “You’ve got Mail!”).</p>
 </div>
 <br>
 <div align="center">
