@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Elwood Edwards did the voice for the AOL sound files (i.e. “You’ve got Mail!”).</p>
+<p id="fact">Camels have three eyelids to protect themselves from blowing sand!</p>
 </div>
 <br>
 <div align="center">
