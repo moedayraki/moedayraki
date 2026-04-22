@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Camels have three eyelids to protect themselves from blowing sand!</p>
+<p id="fact">Pamela Anderson Lee is Canada`s Centennial Baby, being the first baby born on the centennial anniversary of Canada`s independence.</p>
 </div>
 <br>
 <div align="center">
