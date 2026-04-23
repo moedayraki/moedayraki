@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Pamela Anderson Lee is Canada`s Centennial Baby, being the first baby born on the centennial anniversary of Canada`s independence.</p>
+<p id="fact">The giant red star Betelgeuse has a diameter larger than that of the Earth's orbit around the sun. </p>
 </div>
 <br>
 <div align="center">
