@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The giant red star Betelgeuse has a diameter larger than that of the Earth's orbit around the sun. </p>
+<p id="fact">Butterflies taste with their feet.</p>
 </div>
 <br>
 <div align="center">
