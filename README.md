@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">A Czech man, Jan Honza Zampa, holds the record for drinking one liter of beer in 4.11 seconds.</p>
+<p id="fact">On average, 100 people choke to death on ball-point pens every year.</p>
 </div>
 <br>
 <div align="center">
