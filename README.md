@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">On average, 100 people choke to death on ball-point pens every year.</p>
+<p id="fact">Rats and horses can’t vomit.</p>
 </div>
 <br>
 <div align="center">
