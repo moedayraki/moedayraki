@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Koalas never drink water. They get fluids from the eucalyptus leaves they eat.</p>
+<p id="fact">Thirty-five percent of the people who use personal ads for dating are already married.</p>
 </div>
 <br>
 <div align="center">
