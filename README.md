@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Thirty-five percent of the people who use personal ads for dating are already married.</p>
+<p id="fact">About 14% of injecting drug users are HIV positive.</p>
 </div>
 <br>
 <div align="center">
