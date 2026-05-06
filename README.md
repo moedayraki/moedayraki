@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">About 14% of injecting drug users are HIV positive.</p>
+<p id="fact">Camel’s have three eyelids.</p>
 </div>
 <br>
 <div align="center">
