@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">When sharks take a bite, their eyes roll back and their teeth jut out.</p>
+<p id="fact">In York, it is perfectly legal to shoot a Scotsman with a bow and arrow (except on Sundays)</p>
 </div>
 <br>
 <div align="center">
