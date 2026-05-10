@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">In York, it is perfectly legal to shoot a Scotsman with a bow and arrow (except on Sundays)</p>
+<p id="fact">Ketchup was sold in the 1830s as medicine.</p>
 </div>
 <br>
 <div align="center">
