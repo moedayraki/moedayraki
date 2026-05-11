@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Ketchup was sold in the 1830s as medicine.</p>
+<p id="fact">While in Alcatraz, Al Capone was inmate #85.</p>
 </div>
 <br>
 <div align="center">
