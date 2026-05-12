@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">While in Alcatraz, Al Capone was inmate #85.</p>
+<p id="fact">A cat's jaw cannot move sideways.</p>
 </div>
 <br>
 <div align="center">
