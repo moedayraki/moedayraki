@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">A cat's jaw cannot move sideways.</p>
+<p id="fact">Dr. Seuss pronounced his name “soyce”.</p>
 </div>
 <br>
 <div align="center">
