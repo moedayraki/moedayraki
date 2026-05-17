@@ -26,6 +26,6 @@
   },
   "homepage": "https://github.com/moedayraki/moedayraki#readme",
   "dependencies": {
-    "axios": "^0.28.0"
+    "axios": "^1.8.2"
   }
 }
