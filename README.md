@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Lightning strikes the earth about 8 million times a day.</p>
+<p id="fact">The first CD pressed in the US was Bruce Springsteen's "Born in the USA."</p>
 </div>
 <br>
 <div align="center">
