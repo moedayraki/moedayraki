@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The first CD pressed in the US was Bruce Springsteen's "Born in the USA."</p>
+<p id="fact">Sex is the safest tranquilizer in the world. IT IS 10 TIMES MORE EFFECTIVE THAN VALIUM.</p>
 </div>
 <br>
 <div align="center">
