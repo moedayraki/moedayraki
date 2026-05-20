@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Sex is the safest tranquilizer in the world. IT IS 10 TIMES MORE EFFECTIVE THAN VALIUM.</p>
+<p id="fact">The ZIP in “ZIP code” means Zoning Improvement Plan.</p>
 </div>
 <br>
 <div align="center">
