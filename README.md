@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The ZIP in “ZIP code” means Zoning Improvement Plan.</p>
+<p id="fact">Lithuania has the highest suicide rate in the world.</p>
 </div>
 <br>
 <div align="center">
