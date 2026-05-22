@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Lithuania has the highest suicide rate in the world.</p>
+<p id="fact">The world record for spitting a watermelon seed is 65 feet 4 inches.</p>
 </div>
 <br>
 <div align="center">
