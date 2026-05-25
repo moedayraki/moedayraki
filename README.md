@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Owls are one of the only birds who can see the color blue!</p>
+<p id="fact">The katydid bug hears through holes in its hind legs!</p>
 </div>
 <br>
 <div align="center">
