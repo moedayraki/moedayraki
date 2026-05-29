@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The amount of computer Memory required to run WordPerfect for Win95 is 8 times the amount needed aboard the space shuttle.</p>
+<p id="fact">If we had the same mortality rate now as in 1900, more than half the people in the world today would not be alive.</p>
 </div>
 <br>
 <div align="center">
