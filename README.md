@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">If we had the same mortality rate now as in 1900, more than half the people in the world today would not be alive.</p>
+<p id="fact">Every acre of American crops harvested contains 100 pounds of insects.</p>
 </div>
 <br>
 <div align="center">
