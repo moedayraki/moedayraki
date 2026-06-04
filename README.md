@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The skeleton of Jeremy Bentham is present at all important meetings of the University of London</p>
+<p id="fact">The national anthem of Greece has 158 verses.</p>
 </div>
 <br>
 <div align="center">
