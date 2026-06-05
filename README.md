@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The national anthem of Greece has 158 verses.</p>
+<p id="fact">The largest taxi fleet in the world is found in Mexico City. The city boasts a fleet of over 60,000 taxis.</p>
 </div>
 <br>
 <div align="center">
