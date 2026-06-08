@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The flea can jump 350 times its body length. It's like a human jumping the length of a football field.</p>
+<p id="fact">It costs more to buy a new car today in the United States than it cost Christopher Columbus to equip and undertake three voyages to and from the New World.</p>
 </div>
 <br>
 <div align="center">
