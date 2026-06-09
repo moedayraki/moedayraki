@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">It costs more to buy a new car today in the United States than it cost Christopher Columbus to equip and undertake three voyages to and from the New World.</p>
+<p id="fact">Laredo, Texas is the U.S.'s farthest inland port.</p>
 </div>
 <br>
 <div align="center">
