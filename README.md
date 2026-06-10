@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Laredo, Texas is the U.S.'s farthest inland port.</p>
+<p id="fact">The U.S. Post Office handles 43 percent of the world’s mail.</p>
 </div>
 <br>
 <div align="center">
