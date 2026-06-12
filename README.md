@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The average person spends about two years on the phone in a lifetime.</p>
+<p id="fact">During the chariot scene in "Ben Hur," a small red car can be seen in the distance.</p>
 </div>
 <br>
 <div align="center">
