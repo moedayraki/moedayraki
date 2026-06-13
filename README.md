@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">During the chariot scene in "Ben Hur," a small red car can be seen in the distance.</p>
+<p id="fact">Salt Lake City, Utah has a law against carrying an unwrapped ukulele on the street.</p>
 </div>
 <br>
 <div align="center">
