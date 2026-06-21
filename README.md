@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Lawn darts are illegal in Canada.</p>
+<p id="fact">Benjamin Franklin was the fifth in a series of the youngest son of the youngest son.</p>
 </div>
 <br>
 <div align="center">
