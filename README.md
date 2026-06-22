@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Benjamin Franklin was the fifth in a series of the youngest son of the youngest son.</p>
+<p id="fact">There is actually no danger in swimming right after you eat, though it may feel uncomfortable.</p>
 </div>
 <br>
 <div align="center">
