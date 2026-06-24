@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Negative emotions such as anxiety and depression can weaken your immune system.</p>
+<p id="fact">Cephalacaudal recapitulation is the reason our extremities develop faster than the rest of us. </p>
 </div>
 <br>
 <div align="center">
