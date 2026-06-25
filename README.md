@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Cephalacaudal recapitulation is the reason our extremities develop faster than the rest of us. </p>
+<p id="fact">Cuba is the only island in the Caribbean to have a railroad.</p>
 </div>
 <br>
 <div align="center">
