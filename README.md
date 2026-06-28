@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">315 entries in Webster’s 1996 dictionary were misspelled.</p>
+<p id="fact">One in ten people live on an island.</p>
 </div>
 <br>
 <div align="center">
