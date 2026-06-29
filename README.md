@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">One in ten people live on an island.</p>
+<p id="fact">The 3 most valuable brand names on earth are Marlboro, Coca-Cola, and Budweiser (in that order).</p>
 </div>
 <br>
 <div align="center">
