@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The 3 most valuable brand names on earth are Marlboro, Coca-Cola, and Budweiser (in that order).</p>
+<p id="fact">Johnny Appleseed planted apples so that people could use apple cider to make alcohol.</p>
 </div>
 <br>
 <div align="center">
