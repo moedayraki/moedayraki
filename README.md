@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Johnny Appleseed planted apples so that people could use apple cider to make alcohol.</p>
+<p id="fact">The cruise liner Queen Elizabeth II moves only six inches for each gallon of diesel that it burns.</p>
 </div>
 <br>
 <div align="center">
