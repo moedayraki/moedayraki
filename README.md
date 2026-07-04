@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The flea can jump 350 times its body length. It's like a human jumping the length of a football field.</p>
+<p id="fact">28% of Africa is classified as wilderness. In North America, its 38%.</p>
 </div>
 <br>
 <div align="center">
