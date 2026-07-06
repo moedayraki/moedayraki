@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The average human will shed 40 pounds of skin in a lifetime.</p>
+<p id="fact">Einstein couldn`t speak fluently until after his ninth birthday. His parents thought he was mentally retarded.</p>
 </div>
 <br>
 <div align="center">
