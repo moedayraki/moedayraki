@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Einstein couldn`t speak fluently until after his ninth birthday. His parents thought he was mentally retarded.</p>
+<p id="fact">The word “maverick” came into use after Samuel Maverick, a Texan refused to brand his cattle.</p>
 </div>
 <br>
 <div align="center">
