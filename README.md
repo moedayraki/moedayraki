@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The word “maverick” came into use after Samuel Maverick, a Texan refused to brand his cattle.</p>
+<p id="fact">Seattle’s Fremont Bridge rises up and down more than any drawbridge in the world.</p>
 </div>
 <br>
 <div align="center">
