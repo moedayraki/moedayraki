@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The average cough comes out of your mouth at 60 miles (96.5 km) per hour.</p>
+<p id="fact">Jimmy Carter was the first U.S. President to be born in a hospital.</p>
 </div>
 <br>
 <div align="center">
