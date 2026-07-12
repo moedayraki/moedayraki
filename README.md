@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Jimmy Carter was the first U.S. President to be born in a hospital.</p>
+<p id="fact">In Aspen Colorado, you can have a maximum income of $104,000 and still receive government subsidized housing.</p>
 </div>
 <br>
 <div align="center">
