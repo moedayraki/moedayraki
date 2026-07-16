@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Coca-Cola contained Coca (whose active ingredient is cocaine) from 1885 to 1903.</p>
+<p id="fact">Sharkskin has tiny tooth-like scales all over.</p>
 </div>
 <br>
 <div align="center">
