@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Sharkskin has tiny tooth-like scales all over.</p>
+<p id="fact">Until 1997, there were more pigs than people in Denmark.</p>
 </div>
 <br>
 <div align="center">
