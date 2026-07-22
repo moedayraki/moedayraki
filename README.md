@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The Michelin man is known as Mr. Bib. His name was Bibendum in the company’s first ads in 1896.</p>
+<p id="fact">US gold coins used to say “In Gold We Trust”.</p>
 </div>
 <br>
 <div align="center">
