@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">US gold coins used to say “In Gold We Trust”.</p>
+<p id="fact">A spider has transparent blood.</p>
 </div>
 <br>
 <div align="center">
