@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The San Francisco Cable cars are the only mobile National Monuments.</p>
+<p id="fact">Scotland has more redheads than any other part of the world.</p>
 </div>
 <br>
 <div align="center">
