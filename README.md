@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">    Dueling is legal in Paraguay as long as both parties are registered blood donors.</p>
+<p id="fact">"Venus observa" is the technical term for the "missionary position."</p>
 </div>
 <br>
 <div align="center">
