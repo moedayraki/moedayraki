@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">"Venus observa" is the technical term for the "missionary position."</p>
+<p id="fact">The human body is comprised of 80% water.</p>
 </div>
 <br>
 <div align="center">
