@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The Eisenhower interstate system requires that one mile in every five must be straight in case of war or emergency, they could be used as airstrips.</p>
+<p id="fact">There`s a systematic lull in conversation every 7 minutes.</p>
 </div>
 <br>
 <div align="center">
