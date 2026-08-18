@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The expression `to get fired` comes from long ago Clans that wanted to get rid of unwanted people, so they would burn their houses instead of killing them, creating the term `Got fired`.</p>
+<p id="fact">Elwood Edwards did the voice for the AOL sound files (i.e. “You’ve got Mail!”).</p>
 </div>
 <br>
 <div align="center">
