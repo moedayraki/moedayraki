@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Elwood Edwards did the voice for the AOL sound files (i.e. “You’ve got Mail!”).</p>
+<p id="fact">Antarctica is the only continent that does not have land areas below sea level.</p>
 </div>
 <br>
 <div align="center">
