@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The ant always falls over on its right side when intoxicated.</p>
+<p id="fact">IBM’s motto is “Think”. Apple later made their motto “Think different”.</p>
 </div>
 <br>
 <div align="center">
