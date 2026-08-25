@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">IBM’s motto is “Think”. Apple later made their motto “Think different”.</p>
+<p id="fact">A snail can sleep for three years.</p>
 </div>
 <br>
 <div align="center">
