@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Two-thirds of the world`s eggplant is grown in New Jersey.  </p>
+<p id="fact">Half of all bank robberies take place on a Friday.</p>
 </div>
 <br>
 <div align="center">
