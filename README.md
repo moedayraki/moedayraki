@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Half of all bank robberies take place on a Friday.</p>
+<p id="fact">The longest one-syllable word in the English language is "screeched."</p>
 </div>
 <br>
 <div align="center">
