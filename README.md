@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">It is impossible to lick your elbow.</p>
+<p id="fact">The Ramses brand condom is named after the great pharoh Ramses II who fathered over 160 children.</p>
 </div>
 <br>
 <div align="center">
