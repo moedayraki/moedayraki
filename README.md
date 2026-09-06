@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Simplistic passwords contribute to over 80% of all computer password break-ins.</p>
+<p id="fact">In America you will see an average of 500 advertisements a day.</p>
 </div>
 <br>
 <div align="center">
