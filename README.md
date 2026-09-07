@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">In America you will see an average of 500 advertisements a day.</p>
+<p id="fact">Because metal was scarce, the Oscars given out during World War II were made of wood.</p>
 </div>
 <br>
 <div align="center">
