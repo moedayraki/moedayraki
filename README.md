@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Jupiter is bigger than all the other planets in our solar system combined.</p>
+<p id="fact">Daniel Boone hated coonskin caps.</p>
 </div>
 <br>
 <div align="center">
