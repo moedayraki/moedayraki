@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Daniel Boone hated coonskin caps.</p>
+<p id="fact">People say “bless you” when you sneeze because your heart stops for a millisecond.</p>
 </div>
 <br>
 <div align="center">
