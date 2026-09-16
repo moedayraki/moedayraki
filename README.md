@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">People say “bless you” when you sneeze because your heart stops for a millisecond.</p>
+<p id="fact">A lion's roar can be heard from five miles away.</p>
 </div>
 <br>
 <div align="center">
