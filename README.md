@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">A lion's roar can be heard from five miles away.</p>
+<p id="fact">Daniel Boone hated coonskin caps.</p>
 </div>
 <br>
 <div align="center">
