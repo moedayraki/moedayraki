@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Daniel Boone hated coonskin caps.</p>
+<p id="fact">The human heart creates enough pressure when it pumps out to the body to squirt blood 30 feet.</p>
 </div>
 <br>
 <div align="center">
