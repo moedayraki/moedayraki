@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The human heart creates enough pressure when it pumps out to the body to squirt blood 30 feet.</p>
+<p id="fact">About 500 movies are made in the US and 800 in India annually.</p>
 </div>
 <br>
 <div align="center">
