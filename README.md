@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">About 500 movies are made in the US and 800 in India annually.</p>
+<p id="fact">The average human will shed 40 pounds of skin in a lifetime.</p>
 </div>
 <br>
 <div align="center">
