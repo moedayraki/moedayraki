@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Your stomach needs to produce a new layer of mucus every two weeks or it would digest itself.</p>
+<p id="fact">There`s a systematic lull in conversation every 7 minutes.</p>
 </div>
 <br>
 <div align="center">
