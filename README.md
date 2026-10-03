@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Sherlock Holmes NEVER said, "Elementary, my dear Watson."</p>
+<p id="fact">Rubber bands last longer when refrigerated.</p>
 </div>
 <br>
 <div align="center">
