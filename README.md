@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Rubber bands last longer when refrigerated.</p>
+<p id="fact">Two-thirds of the world’s eggplant is grown in New Jersey.</p>
 </div>
 <br>
 <div align="center">
