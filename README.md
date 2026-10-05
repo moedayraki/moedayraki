@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Two-thirds of the world’s eggplant is grown in New Jersey.</p>
+<p id="fact">The human feet perspire half a pint of fluid a day</p>
 </div>
 <br>
 <div align="center">
