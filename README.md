@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Elephants only sleep for two hours each day.</p>
+<p id="fact">The surface of the human skin is 6.5 square feet (2m).</p>
 </div>
 <br>
 <div align="center">
