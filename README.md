@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">More Monopoly money is printed in a year, than real money throughout the world.</p>
+<p id="fact">The mother of Michael Nesmith of "The Monkees" invented whiteout.</p>
 </div>
 <br>
 <div align="center">
