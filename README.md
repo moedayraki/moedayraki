@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The most popular first name in the world is Muhammad.</p>
+<p id="fact">It takes the stomach an hour to break down cows’ milk.</p>
 </div>
 <br>
 <div align="center">
