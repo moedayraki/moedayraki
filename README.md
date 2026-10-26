@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Humans and dolphins are the only species that have sex for pleasure.</p>
+<p id="fact">A honeybee can fly at fifteen miles per hour.</p>
 </div>
 <br>
 <div align="center">
