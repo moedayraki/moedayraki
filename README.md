@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Barbie's full name is "Babara Millicent Roberts."</p>
+<p id="fact">A rhinoceros horn is made of compacted hair.</p>
 </div>
 <br>
 <div align="center">
