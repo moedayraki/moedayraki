@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">A rhinoceros horn is made of compacted hair.</p>
+<p id="fact">More than 50% of the people in the world have never made or received a telephone call.</p>
 </div>
 <br>
 <div align="center">
