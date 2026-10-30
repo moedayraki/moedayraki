@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">More than 50% of the people in the world have never made or received a telephone call.</p>
+<p id="fact">The people of Israel consume more turkeys per capita than any other country.</p>
 </div>
 <br>
 <div align="center">
