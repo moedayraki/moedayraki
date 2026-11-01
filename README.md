@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">A blue whales heart only beats nine times per minute.</p>
+<p id="fact">Laredo, Texas is the U.S.'s farthest inland port.</p>
 </div>
 <br>
 <div align="center">
