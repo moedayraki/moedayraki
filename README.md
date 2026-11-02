@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Laredo, Texas is the U.S.'s farthest inland port.</p>
+<p id="fact">One in fourteen women in America is a natural blonde. Only one in sixteen men is.</p>
 </div>
 <br>
 <div align="center">
