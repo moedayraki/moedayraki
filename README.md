@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">WWII fighter pilots in the South Pacific armed their airplanes while stationed with .50 caliber machine gun ammo belts measuring 27 feet before being loaded into the fuselage. If the pilots fired all their ammo at a target, he went through "the whole 9 yards", hence the term.</p>
+<p id="fact">Adolf Hitler's mother seriously considered having an abortion but was talked out of it by her doctor.</p>
 </div>
 <br>
 <div align="center">
