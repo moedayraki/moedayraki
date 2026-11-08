@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Adolf Hitler's mother seriously considered having an abortion but was talked out of it by her doctor.</p>
+<p id="fact">There are over 58 million dogs in the US</p>
 </div>
 <br>
 <div align="center">
