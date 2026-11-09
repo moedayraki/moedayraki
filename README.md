@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">There are over 58 million dogs in the US</p>
+<p id="fact">Buckingham Palace has 602 rooms.</p>
 </div>
 <br>
 <div align="center">
