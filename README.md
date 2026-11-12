@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Camels chew in a figure 8 pattern.</p>
+<p id="fact">In 10 minutes, a hurricane releases more energy than all of the world's nuclear weapons combined.</p>
 </div>
 <br>
 <div align="center">
