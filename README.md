@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">In 10 minutes, a hurricane releases more energy than all of the world's nuclear weapons combined.</p>
+<p id="fact">An American urologist bought Napoleon’s penis for $40,000.</p>
 </div>
 <br>
 <div align="center">
