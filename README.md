@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">An American urologist bought Napoleon’s penis for $40,000.</p>
+<p id="fact">Sweden has the least number of murders annually.</p>
 </div>
 <br>
 <div align="center">
