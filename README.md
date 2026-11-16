@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Prince Charles and Prince William never travel on the same airplane in case there is a crash.</p>
+<p id="fact">Warren Beatty and Shirley McLaine are brother and sister.</p>
 </div>
 <br>
 <div align="center">
