@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Warren Beatty and Shirley McLaine are brother and sister.</p>
+<p id="fact">Anne Boleyn, Queen Elizabeth I's mother, had six fingers on one hand.</p>
 </div>
 <br>
 <div align="center">
