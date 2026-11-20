@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">One-fourth of the world`s population lives on less than $200 a year.  Ninety million people survive on less than $75 a year.</p>
+<p id="fact">There were always 56 curls in Shirley Temple`s hair.</p>
 </div>
 <br>
 <div align="center">
