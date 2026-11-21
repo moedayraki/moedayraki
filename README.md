@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">There were always 56 curls in Shirley Temple`s hair.</p>
+<p id="fact">"Stewardesses" is the longest word typed with only the left hand.</p>
 </div>
 <br>
 <div align="center">
