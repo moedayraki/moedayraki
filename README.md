@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">"Stewardesses" is the longest word typed with only the left hand.</p>
+<p id="fact">315 entries in Webster’s 1996 dictionary were misspelled.</p>
 </div>
 <br>
 <div align="center">
