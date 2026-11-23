@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">315 entries in Webster’s 1996 dictionary were misspelled.</p>
+<p id="fact">The microwave was invented after a researcher walked by a radar tube and a chocolate bar melted in his pocket.</p>
 </div>
 <br>
 <div align="center">
