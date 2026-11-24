@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">The microwave was invented after a researcher walked by a radar tube and a chocolate bar melted in his pocket.</p>
+<p id="fact">Porcupines can float in water.</p>
 </div>
 <br>
 <div align="center">
