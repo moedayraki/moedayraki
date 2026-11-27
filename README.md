@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <h3>Today's Useless Fact</h3>
-<p id="fact">Only female mosquito’s` bite and most are attracted to the color blue twice as much as to any other color.</p>
+<p id="fact">Because of the rotation of the earth, an object can be thrown farther if it is thrown west.</p>
 </div>
 <br>
 <div align="center">
